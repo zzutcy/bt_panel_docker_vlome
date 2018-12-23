@@ -1,0 +1,2114 @@
+[2018-08-07 09:47:20 +0800] [166145] [INFO] Starting gunicorn 19.9.0
+[2018-08-07 09:47:20 +0800] [166145] [INFO] Listening at: http://0.0.0.0:8081 (166145)
+[2018-08-07 09:47:20 +0800] [166145] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-07 09:47:20 +0800] [166149] [INFO] Booting worker with pid: 166149
+[2018-08-07 09:47:20 +0800] [166150] [INFO] Booting worker with pid: 166150
+[2018-08-07 09:49:58 +0800] [166145] [INFO] Handling signal: int
+[2018-08-07 09:49:58 +0800] [166150] [INFO] Worker exiting (pid: 166150)
+[2018-08-07 09:49:58 +0800] [166149] [INFO] Worker exiting (pid: 166149)
+[2018-08-07 09:49:58 +0800] [166145] [INFO] Shutting down: Master
+[2018-08-07 09:50:00 +0800] [166383] [INFO] Starting gunicorn 19.9.0
+[2018-08-07 09:50:00 +0800] [166383] [INFO] Listening at: http://0.0.0.0:8081 (166383)
+[2018-08-07 09:50:00 +0800] [166383] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-07 09:50:00 +0800] [166387] [INFO] Booting worker with pid: 166387
+[2018-08-07 09:50:00 +0800] [166388] [INFO] Booting worker with pid: 166388
+[2018-08-07 09:52:55 +0800] [166383] [INFO] Handling signal: int
+[2018-08-07 09:52:55 +0800] [166388] [INFO] Worker exiting (pid: 166388)
+[2018-08-07 09:52:55 +0800] [166387] [INFO] Worker exiting (pid: 166387)
+[2018-08-07 09:52:56 +0800] [166383] [INFO] Shutting down: Master
+[2018-08-07 09:52:57 +0800] [166783] [INFO] Starting gunicorn 19.9.0
+[2018-08-07 09:52:57 +0800] [166783] [INFO] Listening at: http://0.0.0.0:8081 (166783)
+[2018-08-07 09:52:57 +0800] [166783] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-07 09:52:57 +0800] [166787] [INFO] Booting worker with pid: 166787
+[2018-08-07 09:52:57 +0800] [166788] [INFO] Booting worker with pid: 166788
+[2018-08-07 09:53:13 +0800] [166783] [INFO] Handling signal: int
+[2018-08-07 09:53:13 +0800] [166787] [INFO] Worker exiting (pid: 166787)
+[2018-08-07 09:53:13 +0800] [166788] [INFO] Worker exiting (pid: 166788)
+[2018-08-07 09:53:13 +0800] [166783] [INFO] Shutting down: Master
+[2018-08-07 09:53:32 +0800] [166841] [INFO] Starting gunicorn 19.9.0
+[2018-08-07 09:53:32 +0800] [166841] [INFO] Listening at: http://0.0.0.0:8081 (166841)
+[2018-08-07 09:53:32 +0800] [166841] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-07 09:53:32 +0800] [166844] [INFO] Booting worker with pid: 166844
+[2018-08-07 09:53:53 +0800] [166841] [INFO] Handling signal: int
+[2018-08-07 09:53:54 +0800] [166844] [INFO] Worker exiting (pid: 166844)
+[2018-08-07 09:53:54 +0800] [166841] [INFO] Shutting down: Master
+[2018-08-07 09:54:06 +0800] [167104] [INFO] Starting gunicorn 19.9.0
+[2018-08-07 09:54:06 +0800] [167104] [INFO] Listening at: http://0.0.0.0:8081 (167104)
+[2018-08-07 09:54:06 +0800] [167104] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-07 09:54:06 +0800] [167107] [INFO] Booting worker with pid: 167107
+[2018-08-07 09:57:24 +0800] [167104] [INFO] Handling signal: int
+[2018-08-07 09:57:25 +0800] [167107] [INFO] Worker exiting (pid: 167107)
+[2018-08-07 09:57:25 +0800] [167104] [INFO] Shutting down: Master
+[2018-08-07 09:57:26 +0800] [167823] [INFO] Starting gunicorn 19.9.0
+[2018-08-07 09:57:26 +0800] [167823] [INFO] Listening at: http://0.0.0.0:8081 (167823)
+[2018-08-07 09:57:26 +0800] [167823] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-07 09:57:26 +0800] [167827] [INFO] Booting worker with pid: 167827
+[2018-08-07 09:58:35 +0800] [167827] [INFO] Worker reloading: /bin/gunicorn modified
+[2018-08-07 09:58:41 +0800] [167823] [INFO] Handling signal: int
+[2018-08-07 09:58:41 +0800] [167827] [INFO] Worker exiting (pid: 167827)
+[2018-08-07 09:58:41 +0800] [167823] [INFO] Shutting down: Master
+2018-08-07 09:58:42 [167905] [INFO] Starting gunicorn 18.0
+2018-08-07 09:58:42 [167905] [INFO] Listening at: http://0.0.0.0:8081 (167905)
+2018-08-07 09:58:42 [167905] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+2018-08-07 09:58:42 [167909] [INFO] Booting worker with pid: 167909
+2018-08-07 10:10:34 [167905] [INFO] Handling signal: int
+2018-08-07 10:10:34 [167905] [INFO] Shutting down: Master
+2018-08-07 10:10:35 [168763] [INFO] Starting gunicorn 18.0
+2018-08-07 10:10:35 [168763] [INFO] Listening at: http://0.0.0.0:8081 (168763)
+2018-08-07 10:10:35 [168763] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+<gunicorn.arbiter.Arbiter object at 0x7f131eb0e0f0>
+2018-08-07 10:10:35 [168766] [INFO] Booting worker with pid: 168766
+2018-08-07 10:11:34 [168763] [INFO] Handling signal: int
+2018-08-07 10:11:34 [168763] [INFO] Shutting down: Master
+2018-08-07 10:11:35 [168826] [INFO] Starting gunicorn 18.0
+2018-08-07 10:11:35 [168826] [INFO] Listening at: http://0.0.0.0:8081 (168826)
+2018-08-07 10:11:35 [168826] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+1533607895.8639395
+1533607896.8641977
+1533607897.8643835
+1533607898.8646216
+1533607899.864813
+1533607900.8649473
+1533607901.865109
+1533607902.8653717
+1533607903.865602
+1533607904.8657436
+1533607905.865892
+1533607906.8668792
+1533607907.8678818
+1533607908.8688781
+1533607909.8698397
+1533607910.870818
+1533607911.8719475
+1533607912.8728447
+1533607913.8732417
+1533607914.8735135
+1533607915.8737435
+1533607916.8739312
+1533607917.8742254
+1533607918.8743923
+1533607919.8745222
+1533607920.8748507
+1533607921.8750792
+1533607922.875382
+1533607923.8755405
+1533607924.8756597
+1533607925.8758647
+1533607926.8762095
+1533607927.8764288
+1533607928.877684
+1533607929.877855
+1533607930.8784258
+1533607931.8794763
+1533607932.879661
+1533607933.8798363
+1533607934.8799675
+1533607935.8802037
+1533607936.8804533
+1533607937.8806145
+1533607938.8808696
+1533607939.8810165
+1533607940.8812501
+1533607941.8814185
+1533607942.881645
+1533607943.8818853
+1533607944.8820906
+1533607945.8822246
+1533607946.882399
+1533607947.8825836
+1533607948.8828642
+1533607949.883001
+1533607950.8833432
+1533607951.883491
+1533607952.8836854
+1533607953.8845265
+1533607954.8847396
+1533607955.884924
+1533607956.8851125
+1533607957.88605
+1533607958.8863058
+1533607959.886542
+1533607960.8869302
+1533607961.8878539
+1533607962.888326
+1533607963.8885245
+1533607964.888727
+1533607965.8889558
+1533607966.8891191
+1533607967.8893125
+1533607968.8894866
+1533607969.8896632
+1533607970.8899567
+1533607971.8901567
+1533607972.8902938
+1533607973.8905547
+1533607974.8907561
+1533607975.8909307
+1533607976.891136
+1533607977.891372
+1533607978.8915293
+1533607979.892627
+1533607980.8928127
+1533607981.8930018
+1533607982.893854
+1533607983.89407
+1533607984.894225
+1533607985.894352
+1533607986.8945136
+1533607987.8947334
+1533607988.8949213
+1533607989.8951092
+1533607990.895335
+1533607991.8956122
+1533607992.8958137
+1533607993.895989
+1533607994.8962572
+1533607995.8964682
+1533607996.8965912
+1533607997.8967235
+1533607998.89688
+1533607999.89724
+1533608000.897495
+1533608001.8977842
+1533608002.8980777
+1533608003.8983226
+2018-08-07 10:26:49 [169643] [INFO] Starting gunicorn 18.0
+2018-08-07 10:26:49 [169643] [INFO] Listening at: http://0.0.0.0:8081 (169643)
+2018-08-07 10:26:49 [169643] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+2018-08-07 10:26:49 [169646] [INFO] Booting worker with pid: 169646
+2018-08-07 11:47:39 [169643] [INFO] Handling signal: int
+2018-08-07 11:47:39 [169646] [INFO] Worker exiting (pid: 169646)
+2018-08-07 11:47:39 [169643] [INFO] Shutting down: Master
+2018-08-07 11:47:40 [174130] [INFO] Starting gunicorn 18.0
+2018-08-07 11:47:40 [174130] [INFO] Listening at: http://0.0.0.0:8081 (174130)
+2018-08-07 11:47:40 [174130] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+2018-08-07 11:47:40 [174133] [INFO] Booting worker with pid: 174133
+Traceback (most recent call last):
+  File "/usr/lib64/python3.6/site-packages/gevent/pywsgi.py", line 975, in handle_one_response
+    self.run_application()
+  File "/usr/lib/python3.6/site-packages/geventwebsocket/handler.py", line 87, in run_application
+    return super(WebSocketHandler, self).run_application()
+  File "/usr/lib64/python3.6/site-packages/gevent/pywsgi.py", line 922, in run_application
+    self.result = self.application(self.environ, self.start_response)
+  File "/usr/lib64/python3.6/site-packages/flask/app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib64/python3.6/site-packages/flask_socketio/__init__.py", line 43, in __call__
+    start_response)
+  File "/usr/lib/python3.6/site-packages/engineio/middleware.py", line 49, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib64/python3.6/site-packages/flask/app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib64/python3.6/site-packages/flask/app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib64/python3.6/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib64/python3.6/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib64/python3.6/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib64/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib64/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/www/server/BTPanel/BTPanel/views.py", line 256, in system
+    return publicObject(sysObject,defs);
+  File "/www/server/BTPanel/BTPanel/views.py", line 324, in publicObject
+    return public.GetJson(eval(fun)),{'Content-Type':'application/json; charset=utf-8'}
+  File "<string>", line 1, in <module>
+TypeError: get_io_info() takes 0 positional arguments but 2 were given
+2018-08-07T03:47:46Z {'REMOTE_ADDR': '192.168.1.22', 'REMOTE_PORT': '51105', 'HTTP_HOST': '192.168.1.245:8081', (hidden keys: 22)} failed with TypeError
+
+2018-08-07 11:48:15 [174130] [INFO] Handling signal: int
+2018-08-07 11:48:15 [174133] [INFO] Worker exiting (pid: 174133)
+2018-08-07 11:48:15 [174130] [INFO] Shutting down: Master
+[2018-08-15 16:01:51 +0000] [116115] [INFO] Starting gunicorn 19.9.0
+[2018-08-15 16:01:51 +0000] [116115] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-15 16:01:51 +0000] [116115] [ERROR] Retrying in 1 second.
+[2018-08-15 16:01:52 +0000] [116115] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-15 16:01:52 +0000] [116115] [ERROR] Retrying in 1 second.
+[2018-08-15 16:01:53 +0000] [116115] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-15 16:01:53 +0000] [116115] [ERROR] Retrying in 1 second.
+[2018-08-15 16:01:54 +0000] [116115] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-15 16:01:54 +0000] [116115] [ERROR] Retrying in 1 second.
+[2018-08-15 16:01:55 +0000] [116115] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-15 16:01:55 +0000] [116115] [ERROR] Retrying in 1 second.
+[2018-08-15 16:01:56 +0000] [116115] [ERROR] Can't connect to ('0.0.0.0', 8081)
+[2018-08-16 15:17:27 +0000] [12693] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:17:27 +0000] [12693] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-16 15:17:27 +0000] [12693] [ERROR] Retrying in 1 second.
+[2018-08-16 15:17:28 +0000] [12693] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-16 15:17:28 +0000] [12693] [ERROR] Retrying in 1 second.
+[2018-08-16 15:17:29 +0000] [12693] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-16 15:17:29 +0000] [12693] [ERROR] Retrying in 1 second.
+[2018-08-16 15:17:30 +0000] [12693] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-16 15:17:30 +0000] [12693] [ERROR] Retrying in 1 second.
+[2018-08-16 15:17:31 +0000] [12693] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-16 15:17:31 +0000] [12693] [ERROR] Retrying in 1 second.
+[2018-08-16 15:17:32 +0000] [12693] [ERROR] Can't connect to ('0.0.0.0', 8081)
+[2018-08-16 15:17:59 +0000] [12952] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:17:59 +0000] [12952] [INFO] Listening at: http://0.0.0.0:8081 (12952)
+[2018-08-16 15:17:59 +0000] [12952] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:17:59 +0000] [12957] [INFO] Booting worker with pid: 12957
+[2018-08-16 15:21:17 +0000] [12957] [INFO] Worker reloading: /www/server/BTPanel/BTPanel/__init__.py modified
+[2018-08-16 15:21:24 +0000] [12952] [INFO] Handling signal: int
+[2018-08-16 15:21:24 +0000] [12957] [INFO] Worker exiting (pid: 12957)
+[2018-08-16 15:21:24 +0000] [12952] [INFO] Shutting down: Master
+[2018-08-16 15:21:26 +0000] [13466] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:21:26 +0000] [13466] [INFO] Listening at: http://0.0.0.0:8081 (13466)
+[2018-08-16 15:21:26 +0000] [13466] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:21:26 +0000] [13471] [INFO] Booting worker with pid: 13471
+[2018-08-16 15:22:19 +0000] [13471] [INFO] Worker reloading: /www/server/BTPanel/BTPanel/__init__.py modified
+[2018-08-16 15:22:49 +0000] [13471] [WARNING] Worker graceful timeout (pid:13471)
+[2018-08-16 15:22:50 +0000] [13471] [INFO] Worker exiting (pid: 13471)
+[2018-08-16 15:22:50 +0000] [13678] [INFO] Booting worker with pid: 13678
+[2018-08-16 15:22:57 +0000] [13466] [INFO] Handling signal: int
+[2018-08-16 15:22:57 +0000] [13678] [INFO] Worker exiting (pid: 13678)
+[2018-08-16 15:22:57 +0000] [13466] [INFO] Shutting down: Master
+[2018-08-16 15:22:59 +0000] [13723] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:22:59 +0000] [13723] [INFO] Listening at: http://0.0.0.0:8081 (13723)
+[2018-08-16 15:22:59 +0000] [13723] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:22:59 +0000] [13728] [INFO] Booting worker with pid: 13728
+[2018-08-16 15:23:16 +0000] [13723] [INFO] Handling signal: int
+[2018-08-16 15:23:16 +0000] [13728] [INFO] Worker exiting (pid: 13728)
+[2018-08-16 15:23:16 +0000] [13723] [INFO] Shutting down: Master
+[2018-08-16 15:24:29 +0000] [13913] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:24:29 +0000] [13913] [INFO] Listening at: http://0.0.0.0:8081 (13913)
+[2018-08-16 15:24:29 +0000] [13913] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:24:29 +0000] [13918] [INFO] Booting worker with pid: 13918
+[2018-08-16 15:26:42 +0000] [13913] [INFO] Handling signal: int
+[2018-08-16 15:26:42 +0000] [13918] [INFO] Worker exiting (pid: 13918)
+[2018-08-16 15:26:42 +0000] [13913] [INFO] Shutting down: Master
+[2018-08-16 15:26:43 +0000] [14077] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:26:43 +0000] [14077] [INFO] Listening at: http://0.0.0.0:8081 (14077)
+[2018-08-16 15:26:43 +0000] [14077] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:26:43 +0000] [14082] [INFO] Booting worker with pid: 14082
+[2018-08-16 15:28:07 +0000] [14077] [INFO] Handling signal: int
+[2018-08-16 15:28:07 +0000] [14082] [INFO] Worker exiting (pid: 14082)
+[2018-08-16 15:28:07 +0000] [14077] [INFO] Shutting down: Master
+[2018-08-16 15:29:12 +0000] [14493] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:29:12 +0000] [14493] [INFO] Listening at: http://0.0.0.0:8081 (14493)
+[2018-08-16 15:29:12 +0000] [14493] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:29:12 +0000] [14499] [INFO] Booting worker with pid: 14499
+[2018-08-16 15:29:46 +0000] [14499] [INFO] Parent changed, shutting down: <Worker 14499>
+[2018-08-16 15:29:46 +0000] [14499] [INFO] Worker exiting (pid: 14499)
+[2018-08-16 15:29:57 +0000] [14579] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:29:57 +0000] [14579] [INFO] Listening at: http://0.0.0.0:8081 (14579)
+[2018-08-16 15:29:57 +0000] [14579] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:29:57 +0000] [14584] [INFO] Booting worker with pid: 14584
+[2018-08-16 15:33:03 +0000] [14579] [INFO] Handling signal: int
+[2018-08-16 15:33:03 +0000] [14584] [INFO] Worker exiting (pid: 14584)
+[2018-08-16 15:33:03 +0000] [14579] [INFO] Shutting down: Master
+[2018-08-16 15:33:15 +0000] [15015] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:33:15 +0000] [15015] [INFO] Listening at: http://0.0.0.0:8081 (15015)
+[2018-08-16 15:33:15 +0000] [15015] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:33:15 +0000] [15020] [INFO] Booting worker with pid: 15020
+[2018-08-16 15:34:34 +0000] [15015] [INFO] Handling signal: term
+[2018-08-16 15:34:55 +0000] [15020] [WARNING] Worker graceful timeout (pid:15020)
+[2018-08-16 15:34:56 +0000] [15020] [INFO] Worker exiting (pid: 15020)
+[2018-08-16 15:34:56 +0000] [15015] [INFO] Shutting down: Master
+[2018-08-16 15:35:21 +0000] [15226] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 15:35:21 +0000] [15226] [INFO] Listening at: http://0.0.0.0:8081 (15226)
+[2018-08-16 15:35:21 +0000] [15226] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 15:35:21 +0000] [15231] [INFO] Booting worker with pid: 15231
+[2018-08-16 15:43:11 +0000] [15231] [INFO] Worker reloading: class/config.py modified
+[2018-08-16 15:43:41 +0000] [15231] [WARNING] Worker graceful timeout (pid:15231)
+[2018-08-16 15:43:42 +0000] [15231] [INFO] Worker exiting (pid: 15231)
+[2018-08-16 15:43:42 +0000] [15982] [INFO] Booting worker with pid: 15982
+[2018-08-16 16:33:11 +0000] [15226] [INFO] Handling signal: int
+[2018-08-16 16:33:11 +0000] [15982] [INFO] Worker exiting (pid: 15982)
+[2018-08-16 16:33:11 +0000] [15226] [INFO] Shutting down: Master
+[2018-08-16 16:33:29 +0000] [20354] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:33:29 +0000] [20354] [INFO] Listening at: http://0.0.0.0:8081 (20354)
+[2018-08-16 16:33:29 +0000] [20354] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:33:29 +0000] [20359] [INFO] Booting worker with pid: 20359
+[2018-08-16 16:40:53 +0000] [20796] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:40:53 +0000] [20796] [INFO] Listening at: http://0.0.0.0:8081 (20796)
+[2018-08-16 16:40:53 +0000] [20796] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:40:53 +0000] [20801] [INFO] Booting worker with pid: 20801
+[2018-08-16 16:42:42 +0000] [20801] [INFO] Parent changed, shutting down: <Worker 20801>
+[2018-08-16 16:42:42 +0000] [20801] [INFO] Worker exiting (pid: 20801)
+[2018-08-16 16:42:52 +0000] [20945] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:42:52 +0000] [20945] [INFO] Listening at: http://0.0.0.0:8081 (20945)
+[2018-08-16 16:42:52 +0000] [20945] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:42:52 +0000] [20950] [INFO] Booting worker with pid: 20950
+[2018-08-16 16:43:31 +0000] [20950] [INFO] Parent changed, shutting down: <Worker 20950>
+[2018-08-16 16:43:31 +0000] [20950] [INFO] Worker exiting (pid: 20950)
+[2018-08-16 16:43:43 +0000] [21086] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:43:43 +0000] [21086] [INFO] Listening at: http://0.0.0.0:8081 (21086)
+[2018-08-16 16:43:43 +0000] [21086] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:43:43 +0000] [21091] [INFO] Booting worker with pid: 21091
+[2018-08-16 16:45:10 +0000] [21091] [INFO] Parent changed, shutting down: <Worker 21091>
+[2018-08-16 16:45:10 +0000] [21091] [INFO] Worker exiting (pid: 21091)
+[2018-08-16 16:45:21 +0000] [21233] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:45:21 +0000] [21233] [INFO] Listening at: http://0.0.0.0:8081 (21233)
+[2018-08-16 16:45:21 +0000] [21233] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:45:21 +0000] [21239] [INFO] Booting worker with pid: 21239
+[2018-08-16 16:49:52 +0000] [21239] [INFO] Parent changed, shutting down: <Worker 21239>
+[2018-08-16 16:49:52 +0000] [21239] [INFO] Worker exiting (pid: 21239)
+[2018-08-16 16:49:54 +0000] [21572] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:49:54 +0000] [21572] [INFO] Listening at: http://0.0.0.0:8081 (21572)
+[2018-08-16 16:49:54 +0000] [21572] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:49:54 +0000] [21577] [INFO] Booting worker with pid: 21577
+[2018-08-16 16:52:08 +0000] [21577] [INFO] Parent changed, shutting down: <Worker 21577>
+[2018-08-16 16:52:08 +0000] [21577] [INFO] Worker exiting (pid: 21577)
+[2018-08-16 16:52:11 +0000] [21726] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:52:11 +0000] [21726] [INFO] Listening at: http://0.0.0.0:8081 (21726)
+[2018-08-16 16:52:11 +0000] [21726] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:52:11 +0000] [21733] [INFO] Booting worker with pid: 21733
+[2018-08-16 16:52:14 +0000] [21733] [INFO] Parent changed, shutting down: <Worker 21733>
+[2018-08-16 16:52:14 +0000] [21733] [INFO] Worker exiting (pid: 21733)
+[2018-08-16 16:52:14 +0000] [21763] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:52:14 +0000] [21763] [INFO] Listening at: http://0.0.0.0:8081 (21763)
+[2018-08-16 16:52:14 +0000] [21763] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:52:14 +0000] [21769] [INFO] Booting worker with pid: 21769
+[2018-08-16 16:52:47 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:52:47 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:52:47 +0000] [21819] [INFO] Booting worker with pid: 21819
+[2018-08-16 16:52:48 +0000] [21769] [INFO] Worker exiting (pid: 21769)
+[2018-08-16 16:52:49 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:52:49 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:52:49 +0000] [21838] [INFO] Booting worker with pid: 21838
+[2018-08-16 16:52:50 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:52:50 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:52:50 +0000] [21857] [INFO] Booting worker with pid: 21857
+[2018-08-16 16:52:50 +0000] [21819] [INFO] Worker exiting (pid: 21819)
+[2018-08-16 16:52:50 +0000] [21838] [INFO] Worker exiting (pid: 21838)
+[2018-08-16 16:54:03 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:54:03 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:54:03 +0000] [21947] [INFO] Booting worker with pid: 21947
+[2018-08-16 16:54:04 +0000] [21857] [INFO] Worker exiting (pid: 21857)
+[2018-08-16 16:54:05 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:54:05 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:54:05 +0000] [21966] [INFO] Booting worker with pid: 21966
+[2018-08-16 16:54:05 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:54:05 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:54:05 +0000] [21985] [INFO] Booting worker with pid: 21985
+[2018-08-16 16:54:06 +0000] [21947] [INFO] Worker exiting (pid: 21947)
+[2018-08-16 16:54:06 +0000] [21966] [INFO] Worker exiting (pid: 21966)
+[2018-08-16 16:54:06 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:54:06 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:54:06 +0000] [22003] [INFO] Booting worker with pid: 22003
+[2018-08-16 16:54:07 +0000] [21985] [INFO] Worker exiting (pid: 21985)
+[2018-08-16 16:54:08 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:54:08 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:54:08 +0000] [22022] [INFO] Booting worker with pid: 22022
+[2018-08-16 16:54:08 +0000] [22003] [INFO] Worker exiting (pid: 22003)
+[2018-08-16 16:54:09 +0000] [21763] [INFO] Handling signal: hup
+[2018-08-16 16:54:09 +0000] [21763] [INFO] Hang up: Master
+[2018-08-16 16:54:09 +0000] [22041] [INFO] Booting worker with pid: 22041
+[2018-08-16 16:54:09 +0000] [22022] [INFO] Worker exiting (pid: 22022)
+[2018-08-16 16:54:13 +0000] [22067] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:54:13 +0000] [22067] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-16 16:54:13 +0000] [22067] [ERROR] Retrying in 1 second.
+[2018-08-16 16:54:13 +0000] [22041] [INFO] Parent changed, shutting down: <Worker 22041>
+[2018-08-16 16:54:13 +0000] [22041] [INFO] Worker exiting (pid: 22041)
+[2018-08-16 16:54:14 +0000] [22067] [INFO] Listening at: http://0.0.0.0:8081 (22067)
+[2018-08-16 16:54:14 +0000] [22067] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:54:14 +0000] [22079] [INFO] Booting worker with pid: 22079
+[2018-08-16 16:54:15 +0000] [22079] [INFO] Parent changed, shutting down: <Worker 22079>
+[2018-08-16 16:54:15 +0000] [22079] [INFO] Worker exiting (pid: 22079)
+[2018-08-16 16:54:15 +0000] [22103] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:54:15 +0000] [22103] [INFO] Listening at: http://0.0.0.0:8081 (22103)
+[2018-08-16 16:54:15 +0000] [22103] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:54:15 +0000] [22108] [INFO] Booting worker with pid: 22108
+[2018-08-16 16:54:17 +0000] [22108] [INFO] Parent changed, shutting down: <Worker 22108>
+[2018-08-16 16:54:17 +0000] [22108] [INFO] Worker exiting (pid: 22108)
+[2018-08-16 16:54:17 +0000] [22137] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:54:17 +0000] [22137] [INFO] Listening at: http://0.0.0.0:8081 (22137)
+[2018-08-16 16:54:17 +0000] [22137] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:54:17 +0000] [22142] [INFO] Booting worker with pid: 22142
+[2018-08-16 16:54:18 +0000] [22142] [INFO] Parent changed, shutting down: <Worker 22142>
+[2018-08-16 16:54:18 +0000] [22142] [INFO] Worker exiting (pid: 22142)
+[2018-08-16 16:54:18 +0000] [22170] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:54:18 +0000] [22170] [INFO] Listening at: http://0.0.0.0:8081 (22170)
+[2018-08-16 16:54:18 +0000] [22170] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:54:18 +0000] [22176] [INFO] Booting worker with pid: 22176
+[2018-08-16 16:54:19 +0000] [22176] [INFO] Parent changed, shutting down: <Worker 22176>
+[2018-08-16 16:54:19 +0000] [22176] [INFO] Worker exiting (pid: 22176)
+[2018-08-16 16:54:19 +0000] [22205] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:54:19 +0000] [22205] [INFO] Listening at: http://0.0.0.0:8081 (22205)
+[2018-08-16 16:54:19 +0000] [22205] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:54:19 +0000] [22210] [INFO] Booting worker with pid: 22210
+[2018-08-16 16:54:21 +0000] [22239] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:54:21 +0000] [22239] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-16 16:54:21 +0000] [22239] [ERROR] Retrying in 1 second.
+[2018-08-16 16:54:21 +0000] [22210] [INFO] Parent changed, shutting down: <Worker 22210>
+[2018-08-16 16:54:21 +0000] [22210] [INFO] Worker exiting (pid: 22210)
+[2018-08-16 16:54:22 +0000] [22239] [INFO] Listening at: http://0.0.0.0:8081 (22239)
+[2018-08-16 16:54:22 +0000] [22239] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:54:22 +0000] [22250] [INFO] Booting worker with pid: 22250
+[2018-08-16 16:54:26 +0000] [22250] [INFO] Parent changed, shutting down: <Worker 22250>
+[2018-08-16 16:54:26 +0000] [22250] [INFO] Worker exiting (pid: 22250)
+[2018-08-16 16:54:26 +0000] [22277] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:54:26 +0000] [22277] [INFO] Listening at: http://0.0.0.0:8081 (22277)
+[2018-08-16 16:54:26 +0000] [22277] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:54:26 +0000] [22282] [INFO] Booting worker with pid: 22282
+[2018-08-16 16:54:29 +0000] [22277] [INFO] Handling signal: hup
+[2018-08-16 16:54:29 +0000] [22277] [INFO] Hang up: Master
+[2018-08-16 16:54:29 +0000] [22308] [INFO] Booting worker with pid: 22308
+[2018-08-16 16:54:30 +0000] [22282] [INFO] Worker exiting (pid: 22282)
+[2018-08-16 16:54:44 +0000] [22277] [INFO] Handling signal: hup
+[2018-08-16 16:54:44 +0000] [22277] [INFO] Hang up: Master
+[2018-08-16 16:54:44 +0000] [22383] [INFO] Booting worker with pid: 22383
+[2018-08-16 16:54:45 +0000] [22308] [INFO] Worker exiting (pid: 22308)
+[2018-08-16 16:54:49 +0000] [22417] [INFO] Starting gunicorn 19.9.0
+[2018-08-16 16:54:49 +0000] [22417] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-16 16:54:49 +0000] [22417] [ERROR] Retrying in 1 second.
+[2018-08-16 16:54:49 +0000] [22383] [INFO] Parent changed, shutting down: <Worker 22383>
+[2018-08-16 16:54:49 +0000] [22383] [INFO] Worker exiting (pid: 22383)
+[2018-08-16 16:54:50 +0000] [22417] [INFO] Listening at: http://0.0.0.0:8081 (22417)
+[2018-08-16 16:54:50 +0000] [22417] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-16 16:54:50 +0000] [22427] [INFO] Booting worker with pid: 22427
+[2018-08-17 10:31:17 +0000] [22427] [INFO] Worker reloading: class/config.py modified
+[2018-08-17 10:31:47 +0000] [22427] [WARNING] Worker graceful timeout (pid:22427)
+[2018-08-17 10:31:48 +0000] [22427] [INFO] Worker exiting (pid: 22427)
+[2018-08-17 10:31:48 +0000] [96162] [INFO] Booting worker with pid: 96162
+[2018-08-17 10:57:40 +0000] [96162] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 10:58:10 +0000] [96162] [WARNING] Worker graceful timeout (pid:96162)
+[2018-08-17 10:58:11 +0000] [96162] [INFO] Worker exiting (pid: 96162)
+[2018-08-17 10:58:11 +0000] [97642] [INFO] Booting worker with pid: 97642
+[2018-08-17 11:04:41 +0000] [97642] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:05:11 +0000] [97642] [WARNING] Worker graceful timeout (pid:97642)
+[2018-08-17 11:05:12 +0000] [97642] [INFO] Worker exiting (pid: 97642)
+[2018-08-17 11:05:12 +0000] [98032] [INFO] Booting worker with pid: 98032
+[2018-08-17 11:12:40 +0000] [98032] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:13:10 +0000] [98032] [WARNING] Worker graceful timeout (pid:98032)
+[2018-08-17 11:13:11 +0000] [98032] [INFO] Worker exiting (pid: 98032)
+[2018-08-17 11:13:11 +0000] [98469] [INFO] Booting worker with pid: 98469
+[2018-08-17 11:14:29 +0000] [98469] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:14:59 +0000] [98469] [WARNING] Worker graceful timeout (pid:98469)
+[2018-08-17 11:15:00 +0000] [98469] [INFO] Worker exiting (pid: 98469)
+[2018-08-17 11:15:00 +0000] [98579] [INFO] Booting worker with pid: 98579
+[2018-08-17 11:15:37 +0000] [98579] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:16:07 +0000] [98579] [WARNING] Worker graceful timeout (pid:98579)
+[2018-08-17 11:16:08 +0000] [98579] [INFO] Worker exiting (pid: 98579)
+[2018-08-17 11:16:08 +0000] [98653] [INFO] Booting worker with pid: 98653
+[2018-08-17 11:20:41 +0000] [98653] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:21:11 +0000] [98653] [WARNING] Worker graceful timeout (pid:98653)
+[2018-08-17 11:21:12 +0000] [98653] [INFO] Worker exiting (pid: 98653)
+[2018-08-17 11:21:12 +0000] [98920] [INFO] Booting worker with pid: 98920
+[2018-08-17 11:22:16 +0000] [98920] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:22:46 +0000] [98920] [WARNING] Worker graceful timeout (pid:98920)
+[2018-08-17 11:22:47 +0000] [98920] [INFO] Worker exiting (pid: 98920)
+[2018-08-17 11:22:47 +0000] [99039] [INFO] Booting worker with pid: 99039
+[2018-08-17 11:24:02 +0000] [99039] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:24:32 +0000] [99039] [WARNING] Worker graceful timeout (pid:99039)
+[2018-08-17 11:24:33 +0000] [99039] [INFO] Worker exiting (pid: 99039)
+[2018-08-17 11:24:33 +0000] [99153] [INFO] Booting worker with pid: 99153
+[2018-08-17 11:27:25 +0000] [99153] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:27:55 +0000] [99153] [WARNING] Worker graceful timeout (pid:99153)
+[2018-08-17 11:27:56 +0000] [99153] [INFO] Worker exiting (pid: 99153)
+[2018-08-17 11:27:56 +0000] [99343] [INFO] Booting worker with pid: 99343
+[2018-08-17 11:28:23 +0000] [99343] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:28:53 +0000] [99343] [WARNING] Worker graceful timeout (pid:99343)
+[2018-08-17 11:28:54 +0000] [99343] [INFO] Worker exiting (pid: 99343)
+[2018-08-17 11:28:54 +0000] [99416] [INFO] Booting worker with pid: 99416
+[2018-08-17 11:29:28 +0000] [99416] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:29:58 +0000] [99416] [WARNING] Worker graceful timeout (pid:99416)
+[2018-08-17 11:29:59 +0000] [99416] [INFO] Worker exiting (pid: 99416)
+[2018-08-17 11:30:00 +0000] [99496] [INFO] Booting worker with pid: 99496
+[2018-08-17 11:39:25 +0000] [99496] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:39:55 +0000] [99496] [WARNING] Worker graceful timeout (pid:99496)
+[2018-08-17 11:39:56 +0000] [99496] [INFO] Worker exiting (pid: 99496)
+[2018-08-17 11:39:56 +0000] [100295] [INFO] Booting worker with pid: 100295
+[2018-08-17 11:40:15 +0000] [100295] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:40:46 +0000] [100295] [WARNING] Worker graceful timeout (pid:100295)
+[2018-08-17 11:40:47 +0000] [100295] [INFO] Worker exiting (pid: 100295)
+[2018-08-17 11:40:47 +0000] [100353] [INFO] Booting worker with pid: 100353
+[2018-08-17 11:40:56 +0000] [100353] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:41:26 +0000] [100353] [WARNING] Worker graceful timeout (pid:100353)
+[2018-08-17 11:41:27 +0000] [100353] [INFO] Worker exiting (pid: 100353)
+[2018-08-17 11:41:27 +0000] [100413] [INFO] Booting worker with pid: 100413
+[2018-08-17 11:51:20 +0000] [100413] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:51:50 +0000] [100413] [WARNING] Worker graceful timeout (pid:100413)
+[2018-08-17 11:51:51 +0000] [100413] [INFO] Worker exiting (pid: 100413)
+[2018-08-17 11:51:51 +0000] [101038] [INFO] Booting worker with pid: 101038
+[2018-08-17 11:52:49 +0000] [101038] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:53:19 +0000] [101038] [WARNING] Worker graceful timeout (pid:101038)
+[2018-08-17 11:53:20 +0000] [101038] [INFO] Worker exiting (pid: 101038)
+[2018-08-17 11:53:20 +0000] [101164] [INFO] Booting worker with pid: 101164
+[2018-08-17 11:54:39 +0000] [101164] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:55:09 +0000] [101164] [WARNING] Worker graceful timeout (pid:101164)
+[2018-08-17 11:55:10 +0000] [101164] [INFO] Worker exiting (pid: 101164)
+[2018-08-17 11:55:10 +0000] [101263] [INFO] Booting worker with pid: 101263
+[2018-08-17 11:55:22 +0000] [101263] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:55:52 +0000] [101263] [WARNING] Worker graceful timeout (pid:101263)
+[2018-08-17 11:55:53 +0000] [101263] [INFO] Worker exiting (pid: 101263)
+[2018-08-17 11:55:53 +0000] [101316] [INFO] Booting worker with pid: 101316
+[2018-08-17 11:58:00 +0000] [101316] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 11:58:30 +0000] [101316] [WARNING] Worker graceful timeout (pid:101316)
+[2018-08-17 11:58:31 +0000] [101316] [INFO] Worker exiting (pid: 101316)
+[2018-08-17 11:58:31 +0000] [101464] [INFO] Booting worker with pid: 101464
+[2018-08-17 12:12:22 +0000] [101464] [INFO] Worker reloading: /www/server/BTPanel/BTPanel/__init__.py modified
+[2018-08-17 12:12:52 +0000] [101464] [WARNING] Worker graceful timeout (pid:101464)
+[2018-08-17 12:12:53 +0000] [101464] [INFO] Worker exiting (pid: 101464)
+[2018-08-17 12:12:53 +0000] [102259] [INFO] Booting worker with pid: 102259
+[2018-08-17 12:22:17 +0000] [102259] [INFO] Worker reloading: class/config.py modified
+[2018-08-17 12:22:47 +0000] [102259] [WARNING] Worker graceful timeout (pid:102259)
+[2018-08-17 12:22:48 +0000] [102259] [INFO] Worker exiting (pid: 102259)
+[2018-08-17 12:22:49 +0000] [102821] [INFO] Booting worker with pid: 102821
+[2018-08-17 14:09:46 +0000] [102821] [INFO] Parent changed, shutting down: <Worker 102821>
+[2018-08-17 14:09:46 +0000] [102821] [INFO] Worker exiting (pid: 102821)
+[2018-08-17 14:09:48 +0000] [108978] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:09:48 +0000] [108978] [INFO] Listening at: http://0.0.0.0:8081 (108978)
+[2018-08-17 14:09:48 +0000] [108978] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:09:48 +0000] [108990] [INFO] Booting worker with pid: 108990
+[2018-08-17 14:11:07 +0000] [108990] [INFO] Parent changed, shutting down: <Worker 108990>
+[2018-08-17 14:11:07 +0000] [108990] [INFO] Worker exiting (pid: 108990)
+[2018-08-17 14:11:18 +0000] [109121] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:11:18 +0000] [109121] [INFO] Listening at: http://0.0.0.0:8081 (109121)
+[2018-08-17 14:11:18 +0000] [109121] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:11:18 +0000] [109127] [INFO] Booting worker with pid: 109127
+[2018-08-17 14:11:24 +0000] [109164] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:11:24 +0000] [109164] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-17 14:11:24 +0000] [109164] [ERROR] Retrying in 1 second.
+[2018-08-17 14:11:24 +0000] [109127] [INFO] Parent changed, shutting down: <Worker 109127>
+[2018-08-17 14:11:24 +0000] [109127] [INFO] Worker exiting (pid: 109127)
+[2018-08-17 14:11:25 +0000] [109164] [INFO] Listening at: http://0.0.0.0:8081 (109164)
+[2018-08-17 14:11:25 +0000] [109164] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:11:25 +0000] [109176] [INFO] Booting worker with pid: 109176
+[2018-08-17 14:11:26 +0000] [109176] [INFO] Parent changed, shutting down: <Worker 109176>
+[2018-08-17 14:11:26 +0000] [109176] [INFO] Worker exiting (pid: 109176)
+[2018-08-17 14:11:26 +0000] [109201] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:11:26 +0000] [109201] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-17 14:11:26 +0000] [109201] [ERROR] Retrying in 1 second.
+[2018-08-17 14:11:27 +0000] [109201] [INFO] Listening at: http://0.0.0.0:8081 (109201)
+[2018-08-17 14:11:27 +0000] [109201] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:11:27 +0000] [109211] [INFO] Booting worker with pid: 109211
+[2018-08-17 14:11:45 +0000] [109201] [INFO] Handling signal: hup
+[2018-08-17 14:11:45 +0000] [109201] [INFO] Hang up: Master
+[2018-08-17 14:11:45 +0000] [109261] [INFO] Booting worker with pid: 109261
+[2018-08-17 14:11:46 +0000] [109201] [INFO] Handling signal: hup
+[2018-08-17 14:11:46 +0000] [109201] [INFO] Hang up: Master
+[2018-08-17 14:11:46 +0000] [109280] [INFO] Booting worker with pid: 109280
+[2018-08-17 14:11:47 +0000] [109201] [INFO] Handling signal: hup
+[2018-08-17 14:11:47 +0000] [109201] [INFO] Hang up: Master
+[2018-08-17 14:11:47 +0000] [109298] [INFO] Booting worker with pid: 109298
+[2018-08-17 14:11:47 +0000] [109261] [INFO] Worker exiting (pid: 109261)
+[2018-08-17 14:11:47 +0000] [109201] [INFO] Handling signal: hup
+[2018-08-17 14:11:47 +0000] [109201] [INFO] Hang up: Master
+[2018-08-17 14:11:47 +0000] [109313] [INFO] Booting worker with pid: 109313
+[2018-08-17 14:11:47 +0000] [109298] [INFO] Worker exiting (pid: 109298)
+[2018-08-17 14:11:47 +0000] [109201] [INFO] Handling signal: hup
+[2018-08-17 14:11:47 +0000] [109201] [INFO] Hang up: Master
+[2018-08-17 14:11:47 +0000] [109334] [INFO] Booting worker with pid: 109334
+[2018-08-17 14:11:47 +0000] [109313] [INFO] Worker exiting (pid: 109313)
+[2018-08-17 14:11:48 +0000] [109280] [INFO] Worker exiting (pid: 109280)
+[2018-08-17 14:12:17 +0000] [109211] [WARNING] Worker graceful timeout (pid:109211)
+[2018-08-17 14:12:18 +0000] [109211] [INFO] Worker exiting (pid: 109211)
+[2018-08-17 14:17:31 +0000] [109201] [INFO] Handling signal: hup
+[2018-08-17 14:17:31 +0000] [109201] [INFO] Hang up: Master
+[2018-08-17 14:17:31 +0000] [109826] [INFO] Booting worker with pid: 109826
+[2018-08-17 14:18:02 +0000] [109334] [WARNING] Worker graceful timeout (pid:109334)
+[2018-08-17 14:18:03 +0000] [109334] [INFO] Worker exiting (pid: 109334)
+[2018-08-17 14:20:41 +0000] [109201] [INFO] Handling signal: hup
+[2018-08-17 14:20:41 +0000] [109201] [INFO] Hang up: Master
+[2018-08-17 14:20:41 +0000] [110038] [INFO] Booting worker with pid: 110038
+[2018-08-17 14:21:10 +0000] [110088] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:21:10 +0000] [110088] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-17 14:21:10 +0000] [110088] [ERROR] Retrying in 1 second.
+[2018-08-17 14:21:10 +0000] [109826] [INFO] Parent changed, shutting down: <Worker 109826>
+[2018-08-17 14:21:10 +0000] [109826] [INFO] Worker exiting (pid: 109826)
+[2018-08-17 14:21:11 +0000] [110038] [INFO] Parent changed, shutting down: <Worker 110038>
+[2018-08-17 14:21:11 +0000] [110038] [INFO] Worker exiting (pid: 110038)
+[2018-08-17 14:21:11 +0000] [110088] [INFO] Listening at: http://0.0.0.0:8081 (110088)
+[2018-08-17 14:21:11 +0000] [110088] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:21:11 +0000] [110099] [INFO] Booting worker with pid: 110099
+[2018-08-17 14:21:43 +0000] [110099] [INFO] Parent changed, shutting down: <Worker 110099>
+[2018-08-17 14:21:43 +0000] [110099] [INFO] Worker exiting (pid: 110099)
+[2018-08-17 14:21:52 +0000] [110170] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:21:52 +0000] [110170] [INFO] Listening at: http://0.0.0.0:8081 (110170)
+[2018-08-17 14:21:52 +0000] [110170] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:21:52 +0000] [110176] [INFO] Booting worker with pid: 110176
+[2018-08-17 14:28:10 +0000] [110170] [INFO] Handling signal: hup
+[2018-08-17 14:28:10 +0000] [110170] [INFO] Hang up: Master
+[2018-08-17 14:28:10 +0000] [110667] [INFO] Booting worker with pid: 110667
+[2018-08-17 14:28:41 +0000] [110176] [WARNING] Worker graceful timeout (pid:110176)
+[2018-08-17 14:28:42 +0000] [110176] [INFO] Worker exiting (pid: 110176)
+[2018-08-17 14:49:36 +0000] [110170] [INFO] Handling signal: hup
+[2018-08-17 14:49:36 +0000] [110170] [INFO] Hang up: Master
+[2018-08-17 14:49:36 +0000] [169985] [INFO] Booting worker with pid: 169985
+[2018-08-17 14:49:51 +0000] [169985] [INFO] Parent changed, shutting down: <Worker 169985>
+[2018-08-17 14:49:51 +0000] [169985] [INFO] Worker exiting (pid: 169985)
+[2018-08-17 14:49:52 +0000] [170034] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:49:52 +0000] [170034] [INFO] Listening at: http://0.0.0.0:8081 (170034)
+[2018-08-17 14:49:52 +0000] [170034] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:49:52 +0000] [170040] [INFO] Booting worker with pid: 170040
+[2018-08-17 14:49:52 +0000] [110667] [INFO] Parent changed, shutting down: <Worker 110667>
+[2018-08-17 14:49:52 +0000] [110667] [INFO] Worker exiting (pid: 110667)
+[2018-08-17 14:55:54 +0000] [170040] [INFO] Worker reloading: plugin/task_manager/task_manager_main.py modified
+[2018-08-17 14:56:24 +0000] [170040] [WARNING] Worker graceful timeout (pid:170040)
+[2018-08-17 14:56:25 +0000] [170040] [INFO] Worker exiting (pid: 170040)
+[2018-08-17 14:56:25 +0000] [170685] [INFO] Booting worker with pid: 170685
+[2018-08-17 14:57:16 +0000] [170998] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:57:16 +0000] [170998] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-17 14:57:16 +0000] [170998] [ERROR] Retrying in 1 second.
+[2018-08-17 14:57:16 +0000] [170685] [INFO] Parent changed, shutting down: <Worker 170685>
+[2018-08-17 14:57:16 +0000] [170685] [INFO] Worker exiting (pid: 170685)
+[2018-08-17 14:57:17 +0000] [170998] [INFO] Listening at: http://0.0.0.0:8081 (170998)
+[2018-08-17 14:57:17 +0000] [170998] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:57:17 +0000] [171009] [INFO] Booting worker with pid: 171009
+[2018-08-17 14:59:18 +0000] [171190] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 14:59:18 +0000] [171190] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-17 14:59:18 +0000] [171190] [ERROR] Retrying in 1 second.
+[2018-08-17 14:59:18 +0000] [171009] [INFO] Parent changed, shutting down: <Worker 171009>
+[2018-08-17 14:59:18 +0000] [171009] [INFO] Worker exiting (pid: 171009)
+[2018-08-17 14:59:19 +0000] [171190] [INFO] Listening at: http://0.0.0.0:8081 (171190)
+[2018-08-17 14:59:19 +0000] [171190] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 14:59:19 +0000] [171201] [INFO] Booting worker with pid: 171201
+[2018-08-17 15:07:33 +0000] [171201] [INFO] Parent changed, shutting down: <Worker 171201>
+[2018-08-17 15:07:33 +0000] [171201] [INFO] Worker exiting (pid: 171201)
+[2018-08-17 15:07:33 +0000] [171855] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 15:07:33 +0000] [171855] [INFO] Listening at: http://0.0.0.0:8081 (171855)
+[2018-08-17 15:07:33 +0000] [171855] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 15:07:33 +0000] [171860] [INFO] Booting worker with pid: 171860
+[2018-08-17 15:13:27 +0000] [172367] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 15:13:27 +0000] [172367] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-17 15:13:27 +0000] [172367] [ERROR] Retrying in 1 second.
+[2018-08-17 15:13:28 +0000] [171860] [INFO] Parent changed, shutting down: <Worker 171860>
+[2018-08-17 15:13:28 +0000] [171860] [INFO] Worker exiting (pid: 171860)
+[2018-08-17 15:13:28 +0000] [172367] [INFO] Listening at: http://0.0.0.0:8081 (172367)
+[2018-08-17 15:13:28 +0000] [172367] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 15:13:28 +0000] [172378] [INFO] Booting worker with pid: 172378
+[2018-08-17 15:42:32 +0000] [172378] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 15:43:02 +0000] [172378] [WARNING] Worker graceful timeout (pid:172378)
+[2018-08-17 15:43:03 +0000] [172378] [INFO] Worker exiting (pid: 172378)
+[2018-08-17 15:43:03 +0000] [175061] [INFO] Booting worker with pid: 175061
+[2018-08-17 15:46:32 +0000] [175061] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 15:47:02 +0000] [175061] [WARNING] Worker graceful timeout (pid:175061)
+[2018-08-17 15:47:03 +0000] [175061] [INFO] Worker exiting (pid: 175061)
+[2018-08-17 15:47:03 +0000] [175291] [INFO] Booting worker with pid: 175291
+[2018-08-17 15:49:14 +0000] [175291] [INFO] Parent changed, shutting down: <Worker 175291>
+[2018-08-17 15:49:14 +0000] [175291] [INFO] Worker exiting (pid: 175291)
+[2018-08-17 15:49:14 +0000] [175482] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 15:49:14 +0000] [175482] [INFO] Listening at: http://0.0.0.0:8081 (175482)
+[2018-08-17 15:49:14 +0000] [175482] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 15:49:14 +0000] [175487] [INFO] Booting worker with pid: 175487
+[2018-08-17 16:13:23 +0000] [177259] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 16:13:23 +0000] [177259] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-17 16:13:23 +0000] [177259] [ERROR] Retrying in 1 second.
+[2018-08-17 16:13:23 +0000] [175487] [INFO] Parent changed, shutting down: <Worker 175487>
+[2018-08-17 16:13:23 +0000] [175487] [INFO] Worker exiting (pid: 175487)
+[2018-08-17 16:13:24 +0000] [177259] [INFO] Listening at: http://0.0.0.0:8081 (177259)
+[2018-08-17 16:13:24 +0000] [177259] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 16:13:24 +0000] [177270] [INFO] Booting worker with pid: 177270
+[2018-08-17 16:25:29 +0000] [177270] [INFO] Worker reloading: class/config.py modified
+[2018-08-17 16:25:59 +0000] [177270] [WARNING] Worker graceful timeout (pid:177270)
+[2018-08-17 16:26:00 +0000] [177270] [INFO] Worker exiting (pid: 177270)
+[2018-08-17 16:26:00 +0000] [178132] [INFO] Booting worker with pid: 178132
+[2018-08-17 16:26:14 +0000] [178132] [INFO] Parent changed, shutting down: <Worker 178132>
+[2018-08-17 16:26:14 +0000] [178132] [INFO] Worker exiting (pid: 178132)
+[2018-08-17 16:26:15 +0000] [178203] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 16:26:15 +0000] [178203] [INFO] Listening at: http://0.0.0.0:8081 (178203)
+[2018-08-17 16:26:15 +0000] [178203] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 16:26:15 +0000] [178208] [INFO] Booting worker with pid: 178208
+[2018-08-17 16:28:40 +0000] [178208] [INFO] Parent changed, shutting down: <Worker 178208>
+[2018-08-17 16:28:40 +0000] [178208] [INFO] Worker exiting (pid: 178208)
+[2018-08-17 16:28:40 +0000] [178443] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 16:28:40 +0000] [178443] [INFO] Listening at: http://0.0.0.0:8081 (178443)
+[2018-08-17 16:28:40 +0000] [178443] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 16:28:40 +0000] [178450] [INFO] Booting worker with pid: 178450
+[2018-08-17 16:30:20 +0000] [178450] [INFO] Parent changed, shutting down: <Worker 178450>
+[2018-08-17 16:30:20 +0000] [178450] [INFO] Worker exiting (pid: 178450)
+[2018-08-17 16:30:28 +0000] [178729] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 16:30:28 +0000] [178729] [INFO] Listening at: http://0.0.0.0:8081 (178729)
+[2018-08-17 16:30:28 +0000] [178729] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 16:30:28 +0000] [178735] [INFO] Booting worker with pid: 178735
+[2018-08-17 16:32:53 +0000] [178735] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 16:32:58 +0000] [178950] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 16:32:58 +0000] [178950] [INFO] Listening at: http://0.0.0.0:8081 (178950)
+[2018-08-17 16:32:58 +0000] [178950] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 16:32:58 +0000] [178955] [INFO] Booting worker with pid: 178955
+[2018-08-17 16:32:58 +0000] [178735] [INFO] Parent changed, shutting down: <Worker 178735>
+[2018-08-17 16:32:58 +0000] [178735] [INFO] Worker exiting (pid: 178735)
+[2018-08-17 16:34:25 +0000] [178955] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 16:34:39 +0000] [178955] [INFO] Parent changed, shutting down: <Worker 178955>
+[2018-08-17 16:34:39 +0000] [178955] [INFO] Worker exiting (pid: 178955)
+[2018-08-17 16:34:39 +0000] [179104] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 16:34:39 +0000] [179104] [INFO] Listening at: http://0.0.0.0:8081 (179104)
+[2018-08-17 16:34:39 +0000] [179104] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 16:34:39 +0000] [179109] [INFO] Booting worker with pid: 179109
+[2018-08-17 16:35:22 +0000] [179109] [INFO] Worker reloading: class/public.py modified
+[2018-08-17 16:35:52 +0000] [179237] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 16:35:52 +0000] [179237] [INFO] Listening at: http://0.0.0.0:8081 (179237)
+[2018-08-17 16:35:52 +0000] [179237] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 16:35:52 +0000] [179242] [INFO] Booting worker with pid: 179242
+[2018-08-17 16:35:52 +0000] [179109] [WARNING] Worker graceful timeout (pid:179109)
+[2018-08-17 16:35:53 +0000] [179109] [INFO] Worker exiting (pid: 179109)
+[2018-08-17 16:36:40 +0000] [179242] [INFO] Worker reloading: plugin/btwaf_httpd/btwaf_httpd_main.py modified
+[2018-08-17 16:37:05 +0000] [179242] [INFO] Parent changed, shutting down: <Worker 179242>
+[2018-08-17 16:37:05 +0000] [179242] [INFO] Worker exiting (pid: 179242)
+[2018-08-17 16:37:05 +0000] [179395] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 16:37:05 +0000] [179395] [INFO] Listening at: http://0.0.0.0:8081 (179395)
+[2018-08-17 16:37:05 +0000] [179395] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 16:37:05 +0000] [179400] [INFO] Booting worker with pid: 179400
+[2018-08-17 17:23:23 +0000] [179400] [INFO] Parent changed, shutting down: <Worker 179400>
+[2018-08-17 17:23:23 +0000] [179400] [INFO] Worker exiting (pid: 179400)
+[2018-08-17 17:23:23 +0000] [182161] [INFO] Starting gunicorn 19.9.0
+[2018-08-17 17:23:23 +0000] [182161] [INFO] Listening at: http://0.0.0.0:8081 (182161)
+[2018-08-17 17:23:23 +0000] [182161] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-17 17:23:23 +0000] [182166] [INFO] Booting worker with pid: 182166
+[2018-08-18 10:07:43 +0000] [182166] [INFO] Worker reloading: class/panelPlugin.py modified
+[2018-08-18 10:08:13 +0000] [182166] [WARNING] Worker graceful timeout (pid:182166)
+[2018-08-18 10:08:14 +0000] [182166] [INFO] Worker exiting (pid: 182166)
+[2018-08-18 10:08:14 +0000] [237661] [INFO] Booting worker with pid: 237661
+[2018-08-18 10:08:17 +0000] [237661] [INFO] Parent changed, shutting down: <Worker 237661>
+[2018-08-18 10:08:17 +0000] [237661] [INFO] Worker exiting (pid: 237661)
+[2018-08-18 10:08:18 +0000] [237685] [INFO] Starting gunicorn 19.9.0
+[2018-08-18 10:08:18 +0000] [237685] [INFO] Listening at: http://0.0.0.0:8081 (237685)
+[2018-08-18 10:08:18 +0000] [237685] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-18 10:08:18 +0000] [237698] [INFO] Booting worker with pid: 237698
+[2018-08-18 11:08:41 +0000] [244995] [INFO] Starting gunicorn 19.9.0
+[2018-08-18 11:08:41 +0000] [244995] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-18 11:08:41 +0000] [244995] [ERROR] Retrying in 1 second.
+[2018-08-18 11:08:41 +0000] [237698] [INFO] Parent changed, shutting down: <Worker 237698>
+[2018-08-18 11:08:41 +0000] [237698] [INFO] Worker exiting (pid: 237698)
+[2018-08-18 11:08:42 +0000] [244995] [INFO] Listening at: http://0.0.0.0:8081 (244995)
+[2018-08-18 11:08:42 +0000] [244995] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-18 11:08:42 +0000] [245006] [INFO] Booting worker with pid: 245006
+[2018-08-18 11:31:01 +0000] [245006] [INFO] Worker reloading: class/panelAuth.py modified
+[2018-08-18 11:31:31 +0000] [245006] [WARNING] Worker graceful timeout (pid:245006)
+[2018-08-18 11:31:32 +0000] [245006] [INFO] Worker exiting (pid: 245006)
+[2018-08-18 11:31:32 +0000] [2958] [INFO] Booting worker with pid: 2958
+[2018-08-18 15:25:27 +0000] [2958] [INFO] Worker reloading: class/panelPlugin.py modified
+[2018-08-18 15:25:57 +0000] [2958] [WARNING] Worker graceful timeout (pid:2958)
+[2018-08-18 15:25:58 +0000] [2958] [INFO] Worker exiting (pid: 2958)
+[2018-08-18 15:25:58 +0000] [32105] [INFO] Booting worker with pid: 32105
+[2018-08-18 15:34:40 +0000] [32105] [INFO] Worker reloading: class/panelPlugin.py modified
+[2018-08-18 15:35:10 +0000] [32105] [WARNING] Worker graceful timeout (pid:32105)
+[2018-08-18 15:35:11 +0000] [32105] [INFO] Worker exiting (pid: 32105)
+[2018-08-18 15:35:11 +0000] [32947] [INFO] Booting worker with pid: 32947
+[2018-08-18 16:33:56 +0000] [32947] [INFO] Worker reloading: class/panelPlugin.py modified
+[2018-08-18 16:34:26 +0000] [32947] [WARNING] Worker graceful timeout (pid:32947)
+[2018-08-18 16:34:27 +0000] [32947] [INFO] Worker exiting (pid: 32947)
+[2018-08-18 16:34:27 +0000] [40418] [INFO] Booting worker with pid: 40418
+[2018-08-18 16:37:08 +0000] [40418] [INFO] Worker reloading: class/panelPlugin.py modified
+[2018-08-18 16:37:38 +0000] [40418] [WARNING] Worker graceful timeout (pid:40418)
+[2018-08-18 16:37:39 +0000] [40418] [INFO] Worker exiting (pid: 40418)
+[2018-08-18 16:37:39 +0000] [40920] [INFO] Booting worker with pid: 40920
+[2018-08-18 16:38:17 +0000] [40920] [INFO] Worker reloading: class/panelPlugin.py modified
+[2018-08-18 16:38:47 +0000] [40920] [WARNING] Worker graceful timeout (pid:40920)
+[2018-08-18 16:38:48 +0000] [40920] [INFO] Worker exiting (pid: 40920)
+[2018-08-18 16:38:48 +0000] [41104] [INFO] Booting worker with pid: 41104
+[2018-08-18 17:21:29 +0000] [41104] [INFO] Worker reloading: class/panelPlugin.py modified
+[2018-08-18 17:21:59 +0000] [41104] [WARNING] Worker graceful timeout (pid:41104)
+[2018-08-18 17:22:00 +0000] [41104] [INFO] Worker exiting (pid: 41104)
+[2018-08-18 17:22:01 +0000] [52966] [INFO] Booting worker with pid: 52966
+[2018-08-18 17:43:21 +0000] [52966] [INFO] Worker reloading: /www/server/BTPanel/BTPanel/__init__.py modified
+[2018-08-18 17:43:51 +0000] [52966] [WARNING] Worker graceful timeout (pid:52966)
+[2018-08-18 17:43:52 +0000] [52966] [INFO] Worker exiting (pid: 52966)
+[2018-08-18 17:43:52 +0000] [56382] [INFO] Booting worker with pid: 56382
+[2018-08-20 10:13:22 +0000] [2224] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 10:13:22 +0000] [2224] [INFO] Listening at: http://0.0.0.0:8081 (2224)
+[2018-08-20 10:13:22 +0000] [2224] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 10:13:22 +0000] [2351] [INFO] Booting worker with pid: 2351
+[2018-08-20 10:13:53 +0000] [2224] [CRITICAL] WORKER TIMEOUT (pid:2351)
+[2018-08-20 10:13:53 +0000] [2351] [INFO] Worker exiting (pid: 2351)
+[2018-08-20 10:13:53 +0000] [2565] [INFO] Booting worker with pid: 2565
+[2018-08-20 10:14:23 +0000] [2224] [CRITICAL] WORKER TIMEOUT (pid:2565)
+[2018-08-20 10:14:23 +0000] [2565] [INFO] Worker exiting (pid: 2565)
+[2018-08-20 10:14:23 +0000] [2599] [INFO] Booting worker with pid: 2599
+[2018-08-20 10:14:53 +0000] [2224] [CRITICAL] WORKER TIMEOUT (pid:2599)
+[2018-08-20 10:14:53 +0000] [2599] [INFO] Worker exiting (pid: 2599)
+[2018-08-20 10:14:53 +0000] [2628] [INFO] Booting worker with pid: 2628
+[2018-08-20 15:45:21 +0000] [21276] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:45:21 +0000] [21276] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:45:21 +0000] [21276] [ERROR] Retrying in 1 second.
+[2018-08-20 15:45:21 +0000] [2628] [INFO] Parent changed, shutting down: <Worker 2628>
+[2018-08-20 15:45:21 +0000] [2628] [INFO] Worker exiting (pid: 2628)
+[2018-08-20 15:45:22 +0000] [21276] [INFO] Listening at: https://0.0.0.0:8081 (21276)
+[2018-08-20 15:45:22 +0000] [21276] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:45:22 +0000] [21286] [INFO] Booting worker with pid: 21286
+[2018-08-20 15:45:56 +0000] [21399] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:45:56 +0000] [21399] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:45:56 +0000] [21399] [ERROR] Retrying in 1 second.
+[2018-08-20 15:45:56 +0000] [21286] [INFO] Parent changed, shutting down: <Worker 21286>
+[2018-08-20 15:45:56 +0000] [21286] [INFO] Worker exiting (pid: 21286)
+[2018-08-20 15:45:57 +0000] [21399] [INFO] Listening at: http://0.0.0.0:8081 (21399)
+[2018-08-20 15:45:57 +0000] [21399] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:45:57 +0000] [21410] [INFO] Booting worker with pid: 21410
+[2018-08-20 15:46:12 +0000] [21410] [INFO] Parent changed, shutting down: <Worker 21410>
+[2018-08-20 15:46:12 +0000] [21410] [INFO] Worker exiting (pid: 21410)
+[2018-08-20 15:46:12 +0000] [21447] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:46:12 +0000] [21447] [INFO] Listening at: http://0.0.0.0:8081 (21447)
+[2018-08-20 15:46:12 +0000] [21447] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:46:12 +0000] [21453] [INFO] Booting worker with pid: 21453
+[2018-08-20 15:46:28 +0000] [21518] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:46:28 +0000] [21518] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:46:28 +0000] [21518] [ERROR] Retrying in 1 second.
+[2018-08-20 15:46:29 +0000] [21453] [INFO] Parent changed, shutting down: <Worker 21453>
+[2018-08-20 15:46:29 +0000] [21453] [INFO] Worker exiting (pid: 21453)
+[2018-08-20 15:46:29 +0000] [21518] [INFO] Listening at: https://0.0.0.0:8081 (21518)
+[2018-08-20 15:46:29 +0000] [21518] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:46:29 +0000] [21529] [INFO] Booting worker with pid: 21529
+[2018-08-20 15:46:46 +0000] [21529] [INFO] Parent changed, shutting down: <Worker 21529>
+[2018-08-20 15:46:46 +0000] [21529] [INFO] Worker exiting (pid: 21529)
+[2018-08-20 15:46:46 +0000] [21570] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:46:46 +0000] [21570] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:46:46 +0000] [21570] [ERROR] Retrying in 1 second.
+[2018-08-20 15:46:47 +0000] [21570] [INFO] Listening at: http://0.0.0.0:8081 (21570)
+[2018-08-20 15:46:47 +0000] [21570] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:46:47 +0000] [21580] [INFO] Booting worker with pid: 21580
+[2018-08-20 15:46:53 +0000] [21609] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:46:53 +0000] [21609] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:46:53 +0000] [21609] [ERROR] Retrying in 1 second.
+[2018-08-20 15:46:54 +0000] [21580] [INFO] Parent changed, shutting down: <Worker 21580>
+[2018-08-20 15:46:54 +0000] [21580] [INFO] Worker exiting (pid: 21580)
+[2018-08-20 15:46:54 +0000] [21609] [INFO] Listening at: http://0.0.0.0:8081 (21609)
+[2018-08-20 15:46:54 +0000] [21609] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:46:54 +0000] [21620] [INFO] Booting worker with pid: 21620
+[2018-08-20 15:47:54 +0000] [21718] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:47:54 +0000] [21718] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:47:54 +0000] [21718] [ERROR] Retrying in 1 second.
+[2018-08-20 15:47:55 +0000] [21620] [INFO] Parent changed, shutting down: <Worker 21620>
+[2018-08-20 15:47:55 +0000] [21620] [INFO] Worker exiting (pid: 21620)
+[2018-08-20 15:47:55 +0000] [21718] [INFO] Listening at: https://0.0.0.0:8081 (21718)
+[2018-08-20 15:47:55 +0000] [21718] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:47:55 +0000] [21729] [INFO] Booting worker with pid: 21729
+[2018-08-20 15:48:00 +0000] [21729] [INFO] Parent changed, shutting down: <Worker 21729>
+[2018-08-20 15:48:00 +0000] [21729] [INFO] Worker exiting (pid: 21729)
+[2018-08-20 15:48:00 +0000] [21761] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:48:00 +0000] [21761] [INFO] Listening at: http://0.0.0.0:8081 (21761)
+[2018-08-20 15:48:00 +0000] [21761] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:48:00 +0000] [21766] [INFO] Booting worker with pid: 21766
+[2018-08-20 15:49:12 +0000] [21850] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:49:12 +0000] [21850] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:49:12 +0000] [21850] [ERROR] Retrying in 1 second.
+[2018-08-20 15:49:12 +0000] [21766] [INFO] Parent changed, shutting down: <Worker 21766>
+[2018-08-20 15:49:12 +0000] [21766] [INFO] Worker exiting (pid: 21766)
+[2018-08-20 15:49:13 +0000] [21850] [INFO] Listening at: http://0.0.0.0:8081 (21850)
+[2018-08-20 15:49:13 +0000] [21850] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:49:13 +0000] [21862] [INFO] Booting worker with pid: 21862
+[2018-08-20 15:49:28 +0000] [21922] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:49:28 +0000] [21922] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:49:28 +0000] [21922] [ERROR] Retrying in 1 second.
+[2018-08-20 15:49:29 +0000] [21862] [INFO] Parent changed, shutting down: <Worker 21862>
+[2018-08-20 15:49:29 +0000] [21862] [INFO] Worker exiting (pid: 21862)
+[2018-08-20 15:49:29 +0000] [21922] [INFO] Listening at: https://0.0.0.0:8081 (21922)
+[2018-08-20 15:49:29 +0000] [21922] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:49:29 +0000] [21933] [INFO] Booting worker with pid: 21933
+[2018-08-20 15:49:38 +0000] [21933] [INFO] Parent changed, shutting down: <Worker 21933>
+[2018-08-20 15:49:38 +0000] [21933] [INFO] Worker exiting (pid: 21933)
+[2018-08-20 15:49:38 +0000] [21969] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:49:38 +0000] [21969] [INFO] Listening at: http://0.0.0.0:8081 (21969)
+[2018-08-20 15:49:38 +0000] [21969] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:49:38 +0000] [21974] [INFO] Booting worker with pid: 21974
+[2018-08-20 15:50:00 +0000] [22019] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:50:00 +0000] [22019] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:50:00 +0000] [22019] [ERROR] Retrying in 1 second.
+[2018-08-20 15:50:00 +0000] [21974] [INFO] Parent changed, shutting down: <Worker 21974>
+[2018-08-20 15:50:00 +0000] [21974] [INFO] Worker exiting (pid: 21974)
+[2018-08-20 15:50:01 +0000] [22019] [INFO] Listening at: http://0.0.0.0:8081 (22019)
+[2018-08-20 15:50:01 +0000] [22019] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:50:01 +0000] [22030] [INFO] Booting worker with pid: 22030
+[2018-08-20 15:51:02 +0000] [22030] [INFO] Worker reloading: class/config.py modified
+[2018-08-20 15:51:06 +0000] [22030] [INFO] Parent changed, shutting down: <Worker 22030>
+[2018-08-20 15:51:06 +0000] [22030] [INFO] Worker exiting (pid: 22030)
+[2018-08-20 15:51:07 +0000] [22114] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:51:07 +0000] [22114] [INFO] Listening at: http://0.0.0.0:8081 (22114)
+[2018-08-20 15:51:07 +0000] [22114] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:51:07 +0000] [22119] [INFO] Booting worker with pid: 22119
+[2018-08-20 15:51:15 +0000] [22175] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:51:15 +0000] [22175] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:51:15 +0000] [22175] [ERROR] Retrying in 1 second.
+[2018-08-20 15:51:15 +0000] [22119] [INFO] Parent changed, shutting down: <Worker 22119>
+[2018-08-20 15:51:15 +0000] [22119] [INFO] Worker exiting (pid: 22119)
+[2018-08-20 15:51:16 +0000] [22175] [INFO] Listening at: https://0.0.0.0:8081 (22175)
+[2018-08-20 15:51:16 +0000] [22175] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:51:16 +0000] [22185] [INFO] Booting worker with pid: 22185
+[2018-08-20 15:51:20 +0000] [22185] [INFO] Parent changed, shutting down: <Worker 22185>
+[2018-08-20 15:51:20 +0000] [22185] [INFO] Worker exiting (pid: 22185)
+[2018-08-20 15:51:20 +0000] [22220] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:51:20 +0000] [22220] [INFO] Listening at: http://0.0.0.0:8081 (22220)
+[2018-08-20 15:51:20 +0000] [22220] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:51:20 +0000] [22225] [INFO] Booting worker with pid: 22225
+[2018-08-20 15:51:22 +0000] [22220] [INFO] Handling signal: hup
+[2018-08-20 15:51:22 +0000] [22220] [INFO] Hang up: Master
+[2018-08-20 15:51:22 +0000] [22249] [INFO] Booting worker with pid: 22249
+[2018-08-20 15:51:37 +0000] [22249] [INFO] Parent changed, shutting down: <Worker 22249>
+[2018-08-20 15:51:37 +0000] [22249] [INFO] Worker exiting (pid: 22249)
+[2018-08-20 15:51:38 +0000] [22285] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:51:38 +0000] [22285] [INFO] Listening at: http://0.0.0.0:8081 (22285)
+[2018-08-20 15:51:38 +0000] [22285] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:51:38 +0000] [22290] [INFO] Booting worker with pid: 22290
+[2018-08-20 15:51:38 +0000] [22225] [INFO] Parent changed, shutting down: <Worker 22225>
+[2018-08-20 15:51:38 +0000] [22225] [INFO] Worker exiting (pid: 22225)
+[2018-08-20 15:51:55 +0000] [22290] [INFO] Worker reloading: class/config.py modified
+[2018-08-20 15:52:19 +0000] [22390] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:52:19 +0000] [22390] [INFO] Listening at: https://0.0.0.0:8081 (22390)
+[2018-08-20 15:52:19 +0000] [22390] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:52:19 +0000] [22395] [INFO] Booting worker with pid: 22395
+[2018-08-20 15:52:20 +0000] [22290] [INFO] Parent changed, shutting down: <Worker 22290>
+[2018-08-20 15:52:20 +0000] [22290] [INFO] Worker exiting (pid: 22290)
+[2018-08-20 15:52:24 +0000] [22449] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:52:24 +0000] [22449] [INFO] Listening at: http://0.0.0.0:8081 (22449)
+[2018-08-20 15:52:24 +0000] [22449] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:52:24 +0000] [22459] [INFO] Booting worker with pid: 22459
+[2018-08-20 15:52:24 +0000] [22458] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:53:36 +0000] [22459] [INFO] Parent changed, shutting down: <Worker 22459>
+[2018-08-20 15:53:36 +0000] [22459] [INFO] Worker exiting (pid: 22459)
+[2018-08-20 15:53:37 +0000] [22556] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:53:37 +0000] [22556] [INFO] Listening at: http://0.0.0.0:8081 (22556)
+[2018-08-20 15:53:37 +0000] [22556] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:53:37 +0000] [22561] [INFO] Booting worker with pid: 22561
+[2018-08-20 15:53:53 +0000] [22634] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:53:53 +0000] [22634] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:53:53 +0000] [22634] [ERROR] Retrying in 1 second.
+[2018-08-20 15:53:54 +0000] [22561] [INFO] Parent changed, shutting down: <Worker 22561>
+[2018-08-20 15:53:54 +0000] [22561] [INFO] Worker exiting (pid: 22561)
+[2018-08-20 15:53:54 +0000] [22634] [INFO] Listening at: https://0.0.0.0:8081 (22634)
+[2018-08-20 15:53:54 +0000] [22634] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:53:54 +0000] [22645] [INFO] Booting worker with pid: 22645
+[2018-08-20 15:54:04 +0000] [22695] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:54:04 +0000] [22695] [INFO] Listening at: http://0.0.0.0:8081 (22695)
+[2018-08-20 15:54:04 +0000] [22695] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:54:04 +0000] [22700] [INFO] Booting worker with pid: 22700
+[2018-08-20 15:54:13 +0000] [22742] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:54:13 +0000] [22742] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:54:13 +0000] [22742] [ERROR] Retrying in 1 second.
+[2018-08-20 15:54:14 +0000] [22700] [INFO] Parent changed, shutting down: <Worker 22700>
+[2018-08-20 15:54:14 +0000] [22700] [INFO] Worker exiting (pid: 22700)
+[2018-08-20 15:54:14 +0000] [22742] [INFO] Listening at: http://0.0.0.0:8081 (22742)
+[2018-08-20 15:54:14 +0000] [22742] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:54:14 +0000] [22752] [INFO] Booting worker with pid: 22752
+[2018-08-20 15:54:17 +0000] [22752] [INFO] Parent changed, shutting down: <Worker 22752>
+[2018-08-20 15:54:17 +0000] [22752] [INFO] Worker exiting (pid: 22752)
+[2018-08-20 15:54:17 +0000] [22780] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:54:17 +0000] [22780] [INFO] Listening at: http://0.0.0.0:8081 (22780)
+[2018-08-20 15:54:17 +0000] [22780] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:54:17 +0000] [22786] [INFO] Booting worker with pid: 22786
+[2018-08-20 15:54:18 +0000] [22786] [INFO] Parent changed, shutting down: <Worker 22786>
+[2018-08-20 15:54:18 +0000] [22786] [INFO] Worker exiting (pid: 22786)
+[2018-08-20 15:54:18 +0000] [22815] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:54:18 +0000] [22815] [INFO] Listening at: http://0.0.0.0:8081 (22815)
+[2018-08-20 15:54:18 +0000] [22815] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:54:18 +0000] [22820] [INFO] Booting worker with pid: 22820
+[2018-08-20 15:54:20 +0000] [22820] [INFO] Parent changed, shutting down: <Worker 22820>
+[2018-08-20 15:54:20 +0000] [22820] [INFO] Worker exiting (pid: 22820)
+[2018-08-20 15:54:20 +0000] [22849] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:54:20 +0000] [22849] [INFO] Listening at: http://0.0.0.0:8081 (22849)
+[2018-08-20 15:54:20 +0000] [22849] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:54:20 +0000] [22855] [INFO] Booting worker with pid: 22855
+[2018-08-20 15:54:21 +0000] [22855] [INFO] Parent changed, shutting down: <Worker 22855>
+[2018-08-20 15:54:21 +0000] [22855] [INFO] Worker exiting (pid: 22855)
+[2018-08-20 15:54:22 +0000] [22884] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:54:22 +0000] [22884] [INFO] Listening at: http://0.0.0.0:8081 (22884)
+[2018-08-20 15:54:22 +0000] [22884] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:54:22 +0000] [22889] [INFO] Booting worker with pid: 22889
+[2018-08-20 15:54:32 +0000] [22946] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:54:32 +0000] [22946] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:54:32 +0000] [22946] [ERROR] Retrying in 1 second.
+[2018-08-20 15:54:32 +0000] [22889] [INFO] Parent changed, shutting down: <Worker 22889>
+[2018-08-20 15:54:32 +0000] [22889] [INFO] Worker exiting (pid: 22889)
+[2018-08-20 15:54:33 +0000] [22946] [INFO] Listening at: https://0.0.0.0:8081 (22946)
+[2018-08-20 15:54:33 +0000] [22946] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:54:33 +0000] [22957] [INFO] Booting worker with pid: 22957
+[2018-08-20 15:54:47 +0000] [23011] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:54:47 +0000] [23011] [INFO] Listening at: http://0.0.0.0:8081 (23011)
+[2018-08-20 15:54:47 +0000] [23011] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:54:47 +0000] [23016] [INFO] Booting worker with pid: 23016
+[2018-08-20 15:55:47 +0000] [23011] [INFO] Handling signal: hup
+[2018-08-20 15:55:47 +0000] [23011] [INFO] Hang up: Master
+[2018-08-20 15:55:47 +0000] [23093] [INFO] Booting worker with pid: 23093
+[2018-08-20 15:55:56 +0000] [23093] [INFO] Parent changed, shutting down: <Worker 23093>
+[2018-08-20 15:55:56 +0000] [23093] [INFO] Worker exiting (pid: 23093)
+[2018-08-20 15:55:57 +0000] [23016] [INFO] Parent changed, shutting down: <Worker 23016>
+[2018-08-20 15:55:57 +0000] [23016] [INFO] Worker exiting (pid: 23016)
+[2018-08-20 15:56:00 +0000] [23126] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:56:00 +0000] [23126] [INFO] Listening at: http://0.0.0.0:8081 (23126)
+[2018-08-20 15:56:00 +0000] [23126] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:56:00 +0000] [23131] [INFO] Booting worker with pid: 23131
+[2018-08-20 15:56:44 +0000] [23131] [INFO] Parent changed, shutting down: <Worker 23131>
+[2018-08-20 15:56:44 +0000] [23131] [INFO] Worker exiting (pid: 23131)
+[2018-08-20 15:56:44 +0000] [23200] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:56:44 +0000] [23200] [INFO] Listening at: http://0.0.0.0:8081 (23200)
+[2018-08-20 15:56:44 +0000] [23200] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:56:44 +0000] [23206] [INFO] Booting worker with pid: 23206
+[2018-08-20 15:57:20 +0000] [23206] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 15:57:38 +0000] [23206] [INFO] Parent changed, shutting down: <Worker 23206>
+[2018-08-20 15:57:38 +0000] [23206] [INFO] Worker exiting (pid: 23206)
+[2018-08-20 15:57:38 +0000] [23284] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:57:38 +0000] [23284] [INFO] Listening at: http://0.0.0.0:8081 (23284)
+[2018-08-20 15:57:38 +0000] [23284] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:57:38 +0000] [23289] [INFO] Booting worker with pid: 23289
+[2018-08-20 15:57:48 +0000] [23289] [INFO] Parent changed, shutting down: <Worker 23289>
+[2018-08-20 15:57:48 +0000] [23289] [INFO] Worker exiting (pid: 23289)
+[2018-08-20 15:57:48 +0000] [23346] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:57:48 +0000] [23346] [INFO] Listening at: http://0.0.0.0:8081 (23346)
+[2018-08-20 15:57:48 +0000] [23346] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:57:48 +0000] [23351] [INFO] Booting worker with pid: 23351
+[2018-08-20 15:58:13 +0000] [23351] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 15:58:16 +0000] [23402] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:58:16 +0000] [23402] [INFO] Listening at: http://0.0.0.0:8081 (23402)
+[2018-08-20 15:58:16 +0000] [23402] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:58:16 +0000] [23408] [INFO] Booting worker with pid: 23408
+[2018-08-20 15:58:16 +0000] [23351] [INFO] Parent changed, shutting down: <Worker 23351>
+[2018-08-20 15:58:16 +0000] [23351] [INFO] Worker exiting (pid: 23351)
+[2018-08-20 15:58:17 +0000] [23438] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:58:17 +0000] [23438] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:58:17 +0000] [23438] [ERROR] Retrying in 1 second.
+[2018-08-20 15:58:17 +0000] [23408] [INFO] Parent changed, shutting down: <Worker 23408>
+[2018-08-20 15:58:17 +0000] [23408] [INFO] Worker exiting (pid: 23408)
+[2018-08-20 15:58:18 +0000] [23438] [INFO] Listening at: http://0.0.0.0:8081 (23438)
+[2018-08-20 15:58:18 +0000] [23438] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:58:18 +0000] [23451] [INFO] Booting worker with pid: 23451
+[2018-08-20 15:58:21 +0000] [23451] [INFO] Parent changed, shutting down: <Worker 23451>
+[2018-08-20 15:58:21 +0000] [23451] [INFO] Worker exiting (pid: 23451)
+[2018-08-20 15:58:21 +0000] [23484] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:58:21 +0000] [23484] [INFO] Listening at: http://0.0.0.0:8081 (23484)
+[2018-08-20 15:58:21 +0000] [23484] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:58:21 +0000] [23489] [INFO] Booting worker with pid: 23489
+[2018-08-20 15:58:42 +0000] [23489] [INFO] Parent changed, shutting down: <Worker 23489>
+[2018-08-20 15:58:42 +0000] [23489] [INFO] Worker exiting (pid: 23489)
+[2018-08-20 15:58:42 +0000] [23553] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:58:42 +0000] [23553] [INFO] Listening at: http://0.0.0.0:8081 (23553)
+[2018-08-20 15:58:42 +0000] [23553] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:58:42 +0000] [23558] [INFO] Booting worker with pid: 23558
+[2018-08-20 15:58:59 +0000] [23558] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 15:58:59 +0000] [23558] [INFO] Worker exiting (pid: 23558)
+[2018-08-20 15:58:59 +0000] [23587] [INFO] Booting worker with pid: 23587
+[2018-08-20 15:59:05 +0000] [23587] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 15:59:06 +0000] [23587] [INFO] Worker exiting (pid: 23587)
+[2018-08-20 15:59:06 +0000] [23602] [INFO] Booting worker with pid: 23602
+[2018-08-20 15:59:11 +0000] [23602] [INFO] Parent changed, shutting down: <Worker 23602>
+[2018-08-20 15:59:11 +0000] [23602] [INFO] Worker exiting (pid: 23602)
+[2018-08-20 15:59:11 +0000] [23647] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:59:11 +0000] [23647] [INFO] Listening at: http://0.0.0.0:8081 (23647)
+[2018-08-20 15:59:11 +0000] [23647] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:59:11 +0000] [23652] [INFO] Booting worker with pid: 23652
+[2018-08-20 15:59:32 +0000] [23704] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:59:32 +0000] [23704] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:59:32 +0000] [23704] [ERROR] Retrying in 1 second.
+[2018-08-20 15:59:32 +0000] [23652] [INFO] Parent changed, shutting down: <Worker 23652>
+[2018-08-20 15:59:32 +0000] [23652] [INFO] Worker exiting (pid: 23652)
+[2018-08-20 15:59:33 +0000] [23704] [INFO] Listening at: http://0.0.0.0:8081 (23704)
+[2018-08-20 15:59:33 +0000] [23704] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:59:33 +0000] [23715] [INFO] Booting worker with pid: 23715
+[2018-08-20 15:59:38 +0000] [23758] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 15:59:38 +0000] [23758] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 15:59:38 +0000] [23758] [ERROR] Retrying in 1 second.
+[2018-08-20 15:59:39 +0000] [23715] [INFO] Parent changed, shutting down: <Worker 23715>
+[2018-08-20 15:59:39 +0000] [23715] [INFO] Worker exiting (pid: 23715)
+[2018-08-20 15:59:39 +0000] [23758] [INFO] Listening at: http://0.0.0.0:8081 (23758)
+[2018-08-20 15:59:39 +0000] [23758] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 15:59:39 +0000] [23769] [INFO] Booting worker with pid: 23769
+[2018-08-20 16:00:27 +0000] [23769] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 16:00:30 +0000] [23864] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:00:30 +0000] [23864] [INFO] Listening at: http://0.0.0.0:8081 (23864)
+[2018-08-20 16:00:30 +0000] [23864] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:00:30 +0000] [23869] [INFO] Booting worker with pid: 23869
+[2018-08-20 16:00:30 +0000] [23769] [INFO] Parent changed, shutting down: <Worker 23769>
+[2018-08-20 16:00:30 +0000] [23769] [INFO] Worker exiting (pid: 23769)
+[2018-08-20 16:00:37 +0000] [23869] [INFO] Parent changed, shutting down: <Worker 23869>
+[2018-08-20 16:00:37 +0000] [23869] [INFO] Worker exiting (pid: 23869)
+[2018-08-20 16:00:37 +0000] [23931] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:00:37 +0000] [23931] [INFO] Listening at: http://0.0.0.0:8081 (23931)
+[2018-08-20 16:00:37 +0000] [23931] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:00:37 +0000] [23937] [INFO] Booting worker with pid: 23937
+[2018-08-20 16:01:19 +0000] [23937] [INFO] Parent changed, shutting down: <Worker 23937>
+[2018-08-20 16:01:19 +0000] [23937] [INFO] Worker exiting (pid: 23937)
+[2018-08-20 16:01:20 +0000] [24026] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:01:20 +0000] [24026] [INFO] Listening at: http://0.0.0.0:8081 (24026)
+[2018-08-20 16:01:20 +0000] [24026] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:01:20 +0000] [24032] [INFO] Booting worker with pid: 24032
+[2018-08-20 16:01:47 +0000] [24032] [INFO] Parent changed, shutting down: <Worker 24032>
+[2018-08-20 16:01:47 +0000] [24032] [INFO] Worker exiting (pid: 24032)
+[2018-08-20 16:01:47 +0000] [24083] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:01:47 +0000] [24083] [INFO] Listening at: http://0.0.0.0:8081 (24083)
+[2018-08-20 16:01:47 +0000] [24083] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:01:47 +0000] [24088] [INFO] Booting worker with pid: 24088
+[2018-08-20 16:02:38 +0000] [24088] [INFO] Parent changed, shutting down: <Worker 24088>
+[2018-08-20 16:02:38 +0000] [24088] [INFO] Worker exiting (pid: 24088)
+[2018-08-20 16:02:40 +0000] [24161] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:02:40 +0000] [24161] [INFO] Listening at: http://0.0.0.0:8081 (24161)
+[2018-08-20 16:02:40 +0000] [24161] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:02:40 +0000] [24166] [INFO] Booting worker with pid: 24166
+[2018-08-20 16:02:59 +0000] [24166] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 16:03:08 +0000] [24166] [INFO] Parent changed, shutting down: <Worker 24166>
+[2018-08-20 16:03:08 +0000] [24166] [INFO] Worker exiting (pid: 24166)
+[2018-08-20 16:03:09 +0000] [24265] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:03:09 +0000] [24265] [INFO] Listening at: http://0.0.0.0:8081 (24265)
+[2018-08-20 16:03:09 +0000] [24265] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:03:09 +0000] [24270] [INFO] Booting worker with pid: 24270
+[2018-08-20 16:03:16 +0000] [24322] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:03:16 +0000] [24322] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:03:16 +0000] [24322] [ERROR] Retrying in 1 second.
+[2018-08-20 16:03:16 +0000] [24270] [INFO] Parent changed, shutting down: <Worker 24270>
+[2018-08-20 16:03:16 +0000] [24270] [INFO] Worker exiting (pid: 24270)
+[2018-08-20 16:03:17 +0000] [24322] [INFO] Listening at: http://0.0.0.0:8081 (24322)
+[2018-08-20 16:03:17 +0000] [24322] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:03:17 +0000] [24333] [INFO] Booting worker with pid: 24333
+[2018-08-20 16:04:48 +0000] [24333] [INFO] Parent changed, shutting down: <Worker 24333>
+[2018-08-20 16:04:48 +0000] [24333] [INFO] Worker exiting (pid: 24333)
+[2018-08-20 16:05:21 +0000] [24489] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:05:21 +0000] [24489] [INFO] Listening at: http://0.0.0.0:8081 (24489)
+[2018-08-20 16:05:21 +0000] [24489] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:05:21 +0000] [24494] [INFO] Booting worker with pid: 24494
+[2018-08-20 16:05:28 +0000] [24528] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:05:28 +0000] [24528] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:05:28 +0000] [24528] [ERROR] Retrying in 1 second.
+[2018-08-20 16:05:28 +0000] [24494] [INFO] Parent changed, shutting down: <Worker 24494>
+[2018-08-20 16:05:28 +0000] [24494] [INFO] Worker exiting (pid: 24494)
+[2018-08-20 16:05:29 +0000] [24528] [INFO] Listening at: http://0.0.0.0:8081 (24528)
+[2018-08-20 16:05:29 +0000] [24528] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:05:29 +0000] [24539] [INFO] Booting worker with pid: 24539
+[2018-08-20 16:06:25 +0000] [24528] [INFO] Handling signal: hup
+[2018-08-20 16:06:25 +0000] [24528] [INFO] Hang up: Master
+[2018-08-20 16:06:25 +0000] [24619] [INFO] Booting worker with pid: 24619
+[2018-08-20 16:06:40 +0000] [24656] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:06:40 +0000] [24656] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:06:40 +0000] [24656] [ERROR] Retrying in 1 second.
+[2018-08-20 16:06:40 +0000] [24539] [INFO] Parent changed, shutting down: <Worker 24539>
+[2018-08-20 16:06:40 +0000] [24539] [INFO] Worker exiting (pid: 24539)
+[2018-08-20 16:06:40 +0000] [24619] [INFO] Parent changed, shutting down: <Worker 24619>
+[2018-08-20 16:06:40 +0000] [24619] [INFO] Worker exiting (pid: 24619)
+[2018-08-20 16:06:41 +0000] [24656] [INFO] Listening at: http://0.0.0.0:8081 (24656)
+[2018-08-20 16:06:41 +0000] [24656] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:06:41 +0000] [24666] [INFO] Booting worker with pid: 24666
+[2018-08-20 16:10:28 +0000] [24949] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:10:28 +0000] [24949] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:10:28 +0000] [24949] [ERROR] Retrying in 1 second.
+[2018-08-20 16:10:28 +0000] [24666] [INFO] Parent changed, shutting down: <Worker 24666>
+[2018-08-20 16:10:28 +0000] [24666] [INFO] Worker exiting (pid: 24666)
+[2018-08-20 16:10:29 +0000] [24949] [INFO] Listening at: http://0.0.0.0:8081 (24949)
+[2018-08-20 16:10:29 +0000] [24949] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:10:29 +0000] [24960] [INFO] Booting worker with pid: 24960
+[2018-08-20 16:11:23 +0000] [24960] [INFO] Parent changed, shutting down: <Worker 24960>
+[2018-08-20 16:11:23 +0000] [24960] [INFO] Worker exiting (pid: 24960)
+[2018-08-20 16:11:23 +0000] [25031] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:11:23 +0000] [25031] [INFO] Listening at: https://0.0.0.0:8081 (25031)
+[2018-08-20 16:11:23 +0000] [25031] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:11:23 +0000] [25037] [INFO] Booting worker with pid: 25037
+[2018-08-20 16:11:38 +0000] [25097] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:11:38 +0000] [25097] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:11:38 +0000] [25097] [ERROR] Retrying in 1 second.
+[2018-08-20 16:11:38 +0000] [25037] [INFO] Parent changed, shutting down: <Worker 25037>
+[2018-08-20 16:11:38 +0000] [25037] [INFO] Worker exiting (pid: 25037)
+[2018-08-20 16:11:39 +0000] [25097] [INFO] Listening at: https://0.0.0.0:8081 (25097)
+[2018-08-20 16:11:39 +0000] [25097] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:11:39 +0000] [25109] [INFO] Booting worker with pid: 25109
+[2018-08-20 16:13:29 +0000] [25291] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:13:29 +0000] [25291] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:13:29 +0000] [25291] [ERROR] Retrying in 1 second.
+[2018-08-20 16:13:29 +0000] [25109] [INFO] Parent changed, shutting down: <Worker 25109>
+[2018-08-20 16:13:29 +0000] [25109] [INFO] Worker exiting (pid: 25109)
+[2018-08-20 16:13:30 +0000] [25291] [INFO] Listening at: https://0.0.0.0:8081 (25291)
+[2018-08-20 16:13:30 +0000] [25291] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:13:30 +0000] [25303] [INFO] Booting worker with pid: 25303
+[2018-08-20 16:14:03 +0000] [25303] [INFO] Parent changed, shutting down: <Worker 25303>
+[2018-08-20 16:14:03 +0000] [25303] [INFO] Worker exiting (pid: 25303)
+[2018-08-20 16:14:03 +0000] [25356] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:14:03 +0000] [25356] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:14:03 +0000] [25356] [ERROR] Retrying in 1 second.
+[2018-08-20 16:14:04 +0000] [25356] [INFO] Listening at: https://0.0.0.0:8081 (25356)
+[2018-08-20 16:14:04 +0000] [25356] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:14:04 +0000] [25367] [INFO] Booting worker with pid: 25367
+[2018-08-20 16:14:38 +0000] [25466] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:14:38 +0000] [25466] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:14:38 +0000] [25466] [ERROR] Retrying in 1 second.
+[2018-08-20 16:14:39 +0000] [25367] [INFO] Parent changed, shutting down: <Worker 25367>
+[2018-08-20 16:14:39 +0000] [25367] [INFO] Worker exiting (pid: 25367)
+[2018-08-20 16:14:39 +0000] [25466] [INFO] Listening at: https://0.0.0.0:8081 (25466)
+[2018-08-20 16:14:39 +0000] [25466] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:14:39 +0000] [25477] [INFO] Booting worker with pid: 25477
+[2018-08-20 16:15:44 +0000] [25553] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:15:44 +0000] [25553] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:15:44 +0000] [25553] [ERROR] Retrying in 1 second.
+[2018-08-20 16:15:44 +0000] [25477] [INFO] Parent changed, shutting down: <Worker 25477>
+[2018-08-20 16:15:44 +0000] [25477] [INFO] Worker exiting (pid: 25477)
+[2018-08-20 16:15:45 +0000] [25553] [INFO] Listening at: https://0.0.0.0:8081 (25553)
+[2018-08-20 16:15:45 +0000] [25553] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:15:45 +0000] [25565] [INFO] Booting worker with pid: 25565
+[2018-08-20 16:15:53 +0000] [25617] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:15:53 +0000] [25617] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:15:53 +0000] [25617] [ERROR] Retrying in 1 second.
+[2018-08-20 16:15:54 +0000] [25565] [INFO] Parent changed, shutting down: <Worker 25565>
+[2018-08-20 16:15:54 +0000] [25565] [INFO] Worker exiting (pid: 25565)
+[2018-08-20 16:15:54 +0000] [25617] [INFO] Listening at: https://0.0.0.0:8081 (25617)
+[2018-08-20 16:15:54 +0000] [25617] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:15:54 +0000] [25628] [INFO] Booting worker with pid: 25628
+[2018-08-20 16:16:05 +0000] [25664] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:16:05 +0000] [25664] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:16:05 +0000] [25664] [ERROR] Retrying in 1 second.
+[2018-08-20 16:16:06 +0000] [25628] [INFO] Parent changed, shutting down: <Worker 25628>
+[2018-08-20 16:16:06 +0000] [25628] [INFO] Worker exiting (pid: 25628)
+[2018-08-20 16:16:06 +0000] [25664] [INFO] Listening at: https://0.0.0.0:8081 (25664)
+[2018-08-20 16:16:06 +0000] [25664] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:16:06 +0000] [25674] [INFO] Booting worker with pid: 25674
+[2018-08-20 16:16:41 +0000] [25674] [INFO] Worker reloading: /www/server/BTPanel/BTPanel/__init__.py modified
+[2018-08-20 16:16:51 +0000] [25758] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:16:51 +0000] [25758] [INFO] Listening at: https://0.0.0.0:8081 (25758)
+[2018-08-20 16:16:51 +0000] [25758] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:16:51 +0000] [25763] [INFO] Booting worker with pid: 25763
+[2018-08-20 16:16:51 +0000] [25674] [INFO] Parent changed, shutting down: <Worker 25674>
+[2018-08-20 16:16:51 +0000] [25674] [INFO] Worker exiting (pid: 25674)
+[2018-08-20 16:17:27 +0000] [25857] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:17:27 +0000] [25857] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:17:27 +0000] [25857] [ERROR] Retrying in 1 second.
+[2018-08-20 16:17:27 +0000] [25763] [INFO] Parent changed, shutting down: <Worker 25763>
+[2018-08-20 16:17:27 +0000] [25763] [INFO] Worker exiting (pid: 25763)
+[2018-08-20 16:17:28 +0000] [25857] [INFO] Listening at: https://0.0.0.0:8081 (25857)
+[2018-08-20 16:17:28 +0000] [25857] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:17:28 +0000] [25868] [INFO] Booting worker with pid: 25868
+[2018-08-20 16:18:25 +0000] [25946] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:18:25 +0000] [25946] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:18:25 +0000] [25946] [ERROR] Retrying in 1 second.
+[2018-08-20 16:18:25 +0000] [25868] [INFO] Parent changed, shutting down: <Worker 25868>
+[2018-08-20 16:18:25 +0000] [25868] [INFO] Worker exiting (pid: 25868)
+[2018-08-20 16:18:26 +0000] [25946] [INFO] Listening at: https://0.0.0.0:8081 (25946)
+[2018-08-20 16:18:26 +0000] [25946] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:18:26 +0000] [25957] [INFO] Booting worker with pid: 25957
+[2018-08-20 16:18:38 +0000] [26006] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:18:38 +0000] [26006] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:18:38 +0000] [26006] [ERROR] Retrying in 1 second.
+[2018-08-20 16:18:38 +0000] [25957] [INFO] Parent changed, shutting down: <Worker 25957>
+[2018-08-20 16:18:38 +0000] [25957] [INFO] Worker exiting (pid: 25957)
+[2018-08-20 16:18:39 +0000] [26006] [INFO] Listening at: https://0.0.0.0:8081 (26006)
+[2018-08-20 16:18:39 +0000] [26006] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:18:39 +0000] [26018] [INFO] Booting worker with pid: 26018
+[2018-08-20 16:19:49 +0000] [26018] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 16:19:59 +0000] [26159] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:19:59 +0000] [26159] [INFO] Listening at: https://0.0.0.0:8081 (26159)
+[2018-08-20 16:19:59 +0000] [26159] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:19:59 +0000] [26165] [INFO] Booting worker with pid: 26165
+[2018-08-20 16:19:59 +0000] [26018] [INFO] Parent changed, shutting down: <Worker 26018>
+[2018-08-20 16:19:59 +0000] [26018] [INFO] Worker exiting (pid: 26018)
+[2018-08-20 16:20:05 +0000] [26197] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:20:05 +0000] [26197] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:20:05 +0000] [26197] [ERROR] Retrying in 1 second.
+[2018-08-20 16:20:05 +0000] [26165] [INFO] Parent changed, shutting down: <Worker 26165>
+[2018-08-20 16:20:05 +0000] [26165] [INFO] Worker exiting (pid: 26165)
+[2018-08-20 16:20:06 +0000] [26197] [INFO] Listening at: https://0.0.0.0:8081 (26197)
+[2018-08-20 16:20:06 +0000] [26197] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:20:06 +0000] [26208] [INFO] Booting worker with pid: 26208
+[2018-08-20 16:20:11 +0000] [26255] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:20:11 +0000] [26255] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:20:11 +0000] [26255] [ERROR] Retrying in 1 second.
+[2018-08-20 16:20:11 +0000] [26208] [INFO] Parent changed, shutting down: <Worker 26208>
+[2018-08-20 16:20:11 +0000] [26208] [INFO] Worker exiting (pid: 26208)
+[2018-08-20 16:20:12 +0000] [26255] [INFO] Listening at: https://0.0.0.0:8081 (26255)
+[2018-08-20 16:20:12 +0000] [26255] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:20:12 +0000] [26268] [INFO] Booting worker with pid: 26268
+[2018-08-20 16:20:16 +0000] [26293] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:20:16 +0000] [26293] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:20:16 +0000] [26293] [ERROR] Retrying in 1 second.
+[2018-08-20 16:20:16 +0000] [26268] [INFO] Parent changed, shutting down: <Worker 26268>
+[2018-08-20 16:20:16 +0000] [26268] [INFO] Worker exiting (pid: 26268)
+[2018-08-20 16:20:17 +0000] [26293] [INFO] Listening at: https://0.0.0.0:8081 (26293)
+[2018-08-20 16:20:17 +0000] [26293] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:20:17 +0000] [26304] [INFO] Booting worker with pid: 26304
+[2018-08-20 16:20:21 +0000] [26304] [INFO] Parent changed, shutting down: <Worker 26304>
+[2018-08-20 16:20:21 +0000] [26304] [INFO] Worker exiting (pid: 26304)
+[2018-08-20 16:20:21 +0000] [26347] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:20:21 +0000] [26347] [INFO] Listening at: https://0.0.0.0:8081 (26347)
+[2018-08-20 16:20:21 +0000] [26347] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:20:21 +0000] [26352] [INFO] Booting worker with pid: 26352
+[2018-08-20 16:20:33 +0000] [26352] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 16:20:33 +0000] [26352] [INFO] Worker exiting (pid: 26352)
+[2018-08-20 16:20:33 +0000] [26375] [INFO] Booting worker with pid: 26375
+[2018-08-20 16:20:37 +0000] [26401] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:20:37 +0000] [26401] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:20:37 +0000] [26401] [ERROR] Retrying in 1 second.
+[2018-08-20 16:20:38 +0000] [26375] [INFO] Parent changed, shutting down: <Worker 26375>
+[2018-08-20 16:20:38 +0000] [26375] [INFO] Worker exiting (pid: 26375)
+[2018-08-20 16:20:38 +0000] [26401] [INFO] Listening at: https://0.0.0.0:8081 (26401)
+[2018-08-20 16:20:38 +0000] [26401] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:20:38 +0000] [26412] [INFO] Booting worker with pid: 26412
+[2018-08-20 16:20:52 +0000] [26477] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:20:52 +0000] [26477] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:20:52 +0000] [26477] [ERROR] Retrying in 1 second.
+[2018-08-20 16:20:52 +0000] [26412] [INFO] Parent changed, shutting down: <Worker 26412>
+[2018-08-20 16:20:52 +0000] [26412] [INFO] Worker exiting (pid: 26412)
+[2018-08-20 16:20:53 +0000] [26477] [INFO] Listening at: https://0.0.0.0:8081 (26477)
+[2018-08-20 16:20:53 +0000] [26477] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:20:53 +0000] [26488] [INFO] Booting worker with pid: 26488
+[2018-08-20 16:22:27 +0000] [26477] [INFO] Handling signal: hup
+[2018-08-20 16:22:27 +0000] [26477] [INFO] Hang up: Master
+[2018-08-20 16:22:27 +0000] [26612] [INFO] Booting worker with pid: 26612
+[2018-08-20 16:22:28 +0000] [26477] [INFO] Handling signal: hup
+[2018-08-20 16:22:28 +0000] [26477] [INFO] Hang up: Master
+[2018-08-20 16:22:28 +0000] [26631] [INFO] Booting worker with pid: 26631
+[2018-08-20 16:22:28 +0000] [26612] [INFO] Worker exiting (pid: 26612)
+[2018-08-20 16:22:57 +0000] [26488] [WARNING] Worker graceful timeout (pid:26488)
+[2018-08-20 16:22:58 +0000] [26488] [INFO] Worker exiting (pid: 26488)
+[2018-08-20 16:23:51 +0000] [26737] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:23:51 +0000] [26737] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:23:51 +0000] [26737] [ERROR] Retrying in 1 second.
+[2018-08-20 16:23:51 +0000] [26631] [INFO] Parent changed, shutting down: <Worker 26631>
+[2018-08-20 16:23:51 +0000] [26631] [INFO] Worker exiting (pid: 26631)
+[2018-08-20 16:23:52 +0000] [26737] [INFO] Listening at: https://0.0.0.0:8081 (26737)
+[2018-08-20 16:23:52 +0000] [26737] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:23:52 +0000] [26748] [INFO] Booting worker with pid: 26748
+[2018-08-20 16:24:55 +0000] [26748] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 16:24:55 +0000] [26748] [INFO] Worker exiting (pid: 26748)
+[2018-08-20 16:24:55 +0000] [26810] [INFO] Booting worker with pid: 26810
+[2018-08-20 16:25:23 +0000] [26858] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:25:23 +0000] [26858] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:25:23 +0000] [26858] [ERROR] Retrying in 1 second.
+[2018-08-20 16:25:23 +0000] [26810] [INFO] Parent changed, shutting down: <Worker 26810>
+[2018-08-20 16:25:23 +0000] [26810] [INFO] Worker exiting (pid: 26810)
+[2018-08-20 16:25:24 +0000] [26858] [INFO] Listening at: https://0.0.0.0:8081 (26858)
+[2018-08-20 16:25:24 +0000] [26858] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:25:24 +0000] [26869] [INFO] Booting worker with pid: 26869
+[2018-08-20 16:25:32 +0000] [26869] [INFO] Parent changed, shutting down: <Worker 26869>
+[2018-08-20 16:25:32 +0000] [26869] [INFO] Worker exiting (pid: 26869)
+[2018-08-20 16:25:32 +0000] [26918] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:25:32 +0000] [26918] [INFO] Listening at: https://0.0.0.0:8081 (26918)
+[2018-08-20 16:25:32 +0000] [26918] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:25:32 +0000] [26923] [INFO] Booting worker with pid: 26923
+[2018-08-20 16:26:04 +0000] [26923] [INFO] Parent changed, shutting down: <Worker 26923>
+[2018-08-20 16:26:04 +0000] [26923] [INFO] Worker exiting (pid: 26923)
+[2018-08-20 16:26:04 +0000] [26985] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:26:04 +0000] [26985] [INFO] Listening at: https://0.0.0.0:8081 (26985)
+[2018-08-20 16:26:04 +0000] [26985] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:26:04 +0000] [26991] [INFO] Booting worker with pid: 26991
+[2018-08-20 16:26:07 +0000] [27038] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:26:07 +0000] [27038] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:26:07 +0000] [27038] [ERROR] Retrying in 1 second.
+[2018-08-20 16:26:07 +0000] [26991] [INFO] Parent changed, shutting down: <Worker 26991>
+[2018-08-20 16:26:07 +0000] [26991] [INFO] Worker exiting (pid: 26991)
+[2018-08-20 16:26:08 +0000] [27038] [INFO] Listening at: https://0.0.0.0:8081 (27038)
+[2018-08-20 16:26:08 +0000] [27038] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:26:08 +0000] [27049] [INFO] Booting worker with pid: 27049
+[2018-08-20 16:27:05 +0000] [27049] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 16:27:14 +0000] [27198] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:27:14 +0000] [27198] [INFO] Listening at: https://0.0.0.0:8081 (27198)
+[2018-08-20 16:27:14 +0000] [27198] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:27:14 +0000] [27203] [INFO] Booting worker with pid: 27203
+[2018-08-20 16:27:14 +0000] [27049] [INFO] Parent changed, shutting down: <Worker 27049>
+[2018-08-20 16:27:14 +0000] [27049] [INFO] Worker exiting (pid: 27049)
+[2018-08-20 16:27:27 +0000] [27271] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:27:27 +0000] [27271] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:27:27 +0000] [27271] [ERROR] Retrying in 1 second.
+[2018-08-20 16:27:27 +0000] [27203] [INFO] Parent changed, shutting down: <Worker 27203>
+[2018-08-20 16:27:27 +0000] [27203] [INFO] Worker exiting (pid: 27203)
+[2018-08-20 16:27:28 +0000] [27271] [INFO] Listening at: https://0.0.0.0:8081 (27271)
+[2018-08-20 16:27:28 +0000] [27271] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:27:28 +0000] [27283] [INFO] Booting worker with pid: 27283
+[2018-08-20 16:28:47 +0000] [27283] [INFO] Parent changed, shutting down: <Worker 27283>
+[2018-08-20 16:28:47 +0000] [27283] [INFO] Worker exiting (pid: 27283)
+[2018-08-20 16:28:48 +0000] [27429] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:28:48 +0000] [27429] [INFO] Listening at: https://0.0.0.0:8081 (27429)
+[2018-08-20 16:28:48 +0000] [27429] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:28:48 +0000] [27435] [INFO] Booting worker with pid: 27435
+[2018-08-20 16:29:30 +0000] [27435] [INFO] Parent changed, shutting down: <Worker 27435>
+[2018-08-20 16:29:30 +0000] [27435] [INFO] Worker exiting (pid: 27435)
+[2018-08-20 16:29:30 +0000] [27542] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:29:30 +0000] [27542] [INFO] Listening at: https://0.0.0.0:8081 (27542)
+[2018-08-20 16:29:30 +0000] [27542] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:29:30 +0000] [27547] [INFO] Booting worker with pid: 27547
+[2018-08-20 16:29:43 +0000] [27587] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:29:43 +0000] [27587] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:29:43 +0000] [27587] [ERROR] Retrying in 1 second.
+[2018-08-20 16:29:43 +0000] [27547] [INFO] Parent changed, shutting down: <Worker 27547>
+[2018-08-20 16:29:43 +0000] [27547] [INFO] Worker exiting (pid: 27547)
+[2018-08-20 16:29:44 +0000] [27587] [INFO] Listening at: https://0.0.0.0:8081 (27587)
+[2018-08-20 16:29:44 +0000] [27587] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:29:44 +0000] [27599] [INFO] Booting worker with pid: 27599
+[2018-08-20 16:29:47 +0000] [27625] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:29:47 +0000] [27625] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:29:47 +0000] [27625] [ERROR] Retrying in 1 second.
+[2018-08-20 16:29:48 +0000] [27599] [INFO] Parent changed, shutting down: <Worker 27599>
+[2018-08-20 16:29:48 +0000] [27599] [INFO] Worker exiting (pid: 27599)
+[2018-08-20 16:29:48 +0000] [27625] [INFO] Listening at: https://0.0.0.0:8081 (27625)
+[2018-08-20 16:29:48 +0000] [27625] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:29:48 +0000] [27640] [INFO] Booting worker with pid: 27640
+[2018-08-20 16:29:49 +0000] [27640] [INFO] Parent changed, shutting down: <Worker 27640>
+[2018-08-20 16:29:49 +0000] [27640] [INFO] Worker exiting (pid: 27640)
+[2018-08-20 16:29:50 +0000] [27663] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:29:50 +0000] [27663] [INFO] Listening at: https://0.0.0.0:8081 (27663)
+[2018-08-20 16:29:50 +0000] [27663] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:29:50 +0000] [27668] [INFO] Booting worker with pid: 27668
+[2018-08-20 16:30:12 +0000] [27862] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:30:12 +0000] [27862] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:30:12 +0000] [27862] [ERROR] Retrying in 1 second.
+[2018-08-20 16:30:12 +0000] [27668] [INFO] Parent changed, shutting down: <Worker 27668>
+[2018-08-20 16:30:12 +0000] [27668] [INFO] Worker exiting (pid: 27668)
+[2018-08-20 16:30:13 +0000] [27862] [INFO] Listening at: https://0.0.0.0:8081 (27862)
+[2018-08-20 16:30:13 +0000] [27862] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:30:13 +0000] [27874] [INFO] Booting worker with pid: 27874
+[2018-08-20 16:32:57 +0000] [27874] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 16:32:57 +0000] [27874] [INFO] Worker exiting (pid: 27874)
+[2018-08-20 16:32:57 +0000] [28050] [INFO] Booting worker with pid: 28050
+[2018-08-20 16:33:10 +0000] [28085] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:33:10 +0000] [28085] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:33:10 +0000] [28085] [ERROR] Retrying in 1 second.
+[2018-08-20 16:33:11 +0000] [28050] [INFO] Parent changed, shutting down: <Worker 28050>
+[2018-08-20 16:33:11 +0000] [28050] [INFO] Worker exiting (pid: 28050)
+[2018-08-20 16:33:11 +0000] [28085] [INFO] Listening at: https://0.0.0.0:8081 (28085)
+[2018-08-20 16:33:11 +0000] [28085] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:33:11 +0000] [28096] [INFO] Booting worker with pid: 28096
+[2018-08-20 16:33:14 +0000] [28122] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:33:14 +0000] [28122] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:33:14 +0000] [28122] [ERROR] Retrying in 1 second.
+[2018-08-20 16:33:15 +0000] [28096] [INFO] Parent changed, shutting down: <Worker 28096>
+[2018-08-20 16:33:15 +0000] [28096] [INFO] Worker exiting (pid: 28096)
+[2018-08-20 16:33:15 +0000] [28122] [INFO] Listening at: https://0.0.0.0:8081 (28122)
+[2018-08-20 16:33:15 +0000] [28122] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:33:15 +0000] [28134] [INFO] Booting worker with pid: 28134
+[2018-08-20 16:33:22 +0000] [28134] [INFO] Parent changed, shutting down: <Worker 28134>
+[2018-08-20 16:33:22 +0000] [28134] [INFO] Worker exiting (pid: 28134)
+[2018-08-20 16:33:22 +0000] [28164] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:33:22 +0000] [28164] [INFO] Listening at: https://0.0.0.0:8081 (28164)
+[2018-08-20 16:33:22 +0000] [28164] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:33:22 +0000] [28169] [INFO] Booting worker with pid: 28169
+[2018-08-20 16:33:29 +0000] [28206] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:33:29 +0000] [28206] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:33:29 +0000] [28206] [ERROR] Retrying in 1 second.
+[2018-08-20 16:33:30 +0000] [28169] [INFO] Parent changed, shutting down: <Worker 28169>
+[2018-08-20 16:33:30 +0000] [28169] [INFO] Worker exiting (pid: 28169)
+[2018-08-20 16:33:30 +0000] [28206] [INFO] Listening at: https://0.0.0.0:8081 (28206)
+[2018-08-20 16:33:30 +0000] [28206] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:33:30 +0000] [28217] [INFO] Booting worker with pid: 28217
+[2018-08-20 16:33:43 +0000] [28217] [INFO] Parent changed, shutting down: <Worker 28217>
+[2018-08-20 16:33:43 +0000] [28217] [INFO] Worker exiting (pid: 28217)
+[2018-08-20 16:33:43 +0000] [28253] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:33:43 +0000] [28253] [INFO] Listening at: https://0.0.0.0:8081 (28253)
+[2018-08-20 16:33:43 +0000] [28253] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:33:43 +0000] [28258] [INFO] Booting worker with pid: 28258
+[2018-08-20 16:33:44 +0000] [28287] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:33:44 +0000] [28287] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:33:44 +0000] [28287] [ERROR] Retrying in 1 second.
+[2018-08-20 16:33:44 +0000] [28258] [INFO] Parent changed, shutting down: <Worker 28258>
+[2018-08-20 16:33:44 +0000] [28258] [INFO] Worker exiting (pid: 28258)
+[2018-08-20 16:33:45 +0000] [28287] [INFO] Listening at: https://0.0.0.0:8081 (28287)
+[2018-08-20 16:33:45 +0000] [28287] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:33:45 +0000] [28298] [INFO] Booting worker with pid: 28298
+[2018-08-20 16:34:10 +0000] [28355] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:34:10 +0000] [28355] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:34:10 +0000] [28355] [ERROR] Retrying in 1 second.
+[2018-08-20 16:34:11 +0000] [28298] [INFO] Parent changed, shutting down: <Worker 28298>
+[2018-08-20 16:34:11 +0000] [28298] [INFO] Worker exiting (pid: 28298)
+[2018-08-20 16:34:11 +0000] [28355] [INFO] Listening at: https://0.0.0.0:8081 (28355)
+[2018-08-20 16:34:11 +0000] [28355] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:34:11 +0000] [28366] [INFO] Booting worker with pid: 28366
+[2018-08-20 16:34:26 +0000] [28404] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:34:26 +0000] [28404] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:34:26 +0000] [28404] [ERROR] Retrying in 1 second.
+[2018-08-20 16:34:27 +0000] [28366] [INFO] Parent changed, shutting down: <Worker 28366>
+[2018-08-20 16:34:27 +0000] [28366] [INFO] Worker exiting (pid: 28366)
+[2018-08-20 16:34:27 +0000] [28404] [INFO] Listening at: https://0.0.0.0:8081 (28404)
+[2018-08-20 16:34:27 +0000] [28404] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:34:27 +0000] [28415] [INFO] Booting worker with pid: 28415
+[2018-08-20 16:34:28 +0000] [28444] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:34:28 +0000] [28444] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:34:28 +0000] [28444] [ERROR] Retrying in 1 second.
+[2018-08-20 16:34:28 +0000] [28415] [INFO] Parent changed, shutting down: <Worker 28415>
+[2018-08-20 16:34:28 +0000] [28415] [INFO] Worker exiting (pid: 28415)
+[2018-08-20 16:34:29 +0000] [28444] [INFO] Listening at: https://0.0.0.0:8081 (28444)
+[2018-08-20 16:34:29 +0000] [28444] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:34:29 +0000] [28455] [INFO] Booting worker with pid: 28455
+[2018-08-20 16:34:39 +0000] [28489] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:34:39 +0000] [28489] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:34:39 +0000] [28489] [ERROR] Retrying in 1 second.
+[2018-08-20 16:34:39 +0000] [28455] [INFO] Parent changed, shutting down: <Worker 28455>
+[2018-08-20 16:34:39 +0000] [28455] [INFO] Worker exiting (pid: 28455)
+[2018-08-20 16:34:40 +0000] [28489] [INFO] Listening at: https://0.0.0.0:8081 (28489)
+[2018-08-20 16:34:40 +0000] [28489] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:34:40 +0000] [28500] [INFO] Booting worker with pid: 28500
+[2018-08-20 16:35:34 +0000] [28583] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:35:34 +0000] [28583] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:35:34 +0000] [28583] [ERROR] Retrying in 1 second.
+[2018-08-20 16:35:34 +0000] [28500] [INFO] Parent changed, shutting down: <Worker 28500>
+[2018-08-20 16:35:34 +0000] [28500] [INFO] Worker exiting (pid: 28500)
+[2018-08-20 16:35:35 +0000] [28583] [INFO] Listening at: https://0.0.0.0:8081 (28583)
+[2018-08-20 16:35:35 +0000] [28583] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:35:35 +0000] [28589] [INFO] Booting worker with pid: 28589
+[2018-08-20 16:35:36 +0000] [28618] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:35:36 +0000] [28618] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:35:36 +0000] [28618] [ERROR] Retrying in 1 second.
+[2018-08-20 16:35:36 +0000] [28589] [INFO] Parent changed, shutting down: <Worker 28589>
+[2018-08-20 16:35:36 +0000] [28589] [INFO] Worker exiting (pid: 28589)
+[2018-08-20 16:35:37 +0000] [28618] [INFO] Listening at: https://0.0.0.0:8081 (28618)
+[2018-08-20 16:35:37 +0000] [28618] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:35:37 +0000] [28624] [INFO] Booting worker with pid: 28624
+[2018-08-20 16:35:55 +0000] [28663] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:35:55 +0000] [28663] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:35:55 +0000] [28663] [ERROR] Retrying in 1 second.
+[2018-08-20 16:35:55 +0000] [28624] [INFO] Parent changed, shutting down: <Worker 28624>
+[2018-08-20 16:35:55 +0000] [28624] [INFO] Worker exiting (pid: 28624)
+[2018-08-20 16:35:56 +0000] [28663] [INFO] Listening at: https://0.0.0.0:8081 (28663)
+[2018-08-20 16:35:56 +0000] [28663] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:35:56 +0000] [28674] [INFO] Booting worker with pid: 28674
+[2018-08-20 16:35:57 +0000] [28697] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:35:57 +0000] [28697] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:35:57 +0000] [28697] [ERROR] Retrying in 1 second.
+[2018-08-20 16:35:57 +0000] [28674] [INFO] Parent changed, shutting down: <Worker 28674>
+[2018-08-20 16:35:57 +0000] [28674] [INFO] Worker exiting (pid: 28674)
+[2018-08-20 16:35:58 +0000] [28697] [INFO] Listening at: https://0.0.0.0:8081 (28697)
+[2018-08-20 16:35:58 +0000] [28697] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:35:58 +0000] [28708] [INFO] Booting worker with pid: 28708
+[2018-08-20 16:36:08 +0000] [28744] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:36:08 +0000] [28744] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:36:08 +0000] [28744] [ERROR] Retrying in 1 second.
+[2018-08-20 16:36:09 +0000] [28708] [INFO] Parent changed, shutting down: <Worker 28708>
+[2018-08-20 16:36:09 +0000] [28708] [INFO] Worker exiting (pid: 28708)
+[2018-08-20 16:36:09 +0000] [28744] [INFO] Listening at: https://0.0.0.0:8081 (28744)
+[2018-08-20 16:36:09 +0000] [28744] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:36:09 +0000] [28755] [INFO] Booting worker with pid: 28755
+[2018-08-20 16:36:15 +0000] [28755] [INFO] Parent changed, shutting down: <Worker 28755>
+[2018-08-20 16:36:15 +0000] [28755] [INFO] Worker exiting (pid: 28755)
+[2018-08-20 16:36:15 +0000] [28784] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:36:15 +0000] [28784] [INFO] Listening at: https://0.0.0.0:8081 (28784)
+[2018-08-20 16:36:15 +0000] [28784] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:36:15 +0000] [28789] [INFO] Booting worker with pid: 28789
+[2018-08-20 16:36:20 +0000] [28823] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:36:20 +0000] [28823] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:36:20 +0000] [28823] [ERROR] Retrying in 1 second.
+[2018-08-20 16:36:20 +0000] [28789] [INFO] Parent changed, shutting down: <Worker 28789>
+[2018-08-20 16:36:20 +0000] [28789] [INFO] Worker exiting (pid: 28789)
+[2018-08-20 16:36:21 +0000] [28823] [INFO] Listening at: https://0.0.0.0:8081 (28823)
+[2018-08-20 16:36:21 +0000] [28823] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:36:21 +0000] [28834] [INFO] Booting worker with pid: 28834
+[2018-08-20 16:37:46 +0000] [28834] [INFO] Worker reloading: class/system.py modified
+[2018-08-20 16:37:48 +0000] [28978] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:37:48 +0000] [28978] [INFO] Listening at: https://0.0.0.0:8081 (28978)
+[2018-08-20 16:37:48 +0000] [28978] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:37:48 +0000] [28983] [INFO] Booting worker with pid: 28983
+[2018-08-20 16:37:49 +0000] [28834] [INFO] Parent changed, shutting down: <Worker 28834>
+[2018-08-20 16:37:49 +0000] [28834] [INFO] Worker exiting (pid: 28834)
+[2018-08-20 16:37:49 +0000] [29012] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:37:49 +0000] [29012] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:37:49 +0000] [29012] [ERROR] Retrying in 1 second.
+[2018-08-20 16:37:50 +0000] [28983] [INFO] Parent changed, shutting down: <Worker 28983>
+[2018-08-20 16:37:50 +0000] [28983] [INFO] Worker exiting (pid: 28983)
+[2018-08-20 16:37:50 +0000] [29012] [INFO] Listening at: https://0.0.0.0:8081 (29012)
+[2018-08-20 16:37:50 +0000] [29012] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:37:50 +0000] [29023] [INFO] Booting worker with pid: 29023
+[2018-08-20 16:37:55 +0000] [29048] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:37:55 +0000] [29048] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:37:55 +0000] [29048] [ERROR] Retrying in 1 second.
+[2018-08-20 16:37:55 +0000] [29023] [INFO] Parent changed, shutting down: <Worker 29023>
+[2018-08-20 16:37:55 +0000] [29023] [INFO] Worker exiting (pid: 29023)
+[2018-08-20 16:37:56 +0000] [29048] [INFO] Listening at: https://0.0.0.0:8081 (29048)
+[2018-08-20 16:37:56 +0000] [29048] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:37:56 +0000] [29060] [INFO] Booting worker with pid: 29060
+[2018-08-20 16:38:08 +0000] [29093] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:38:08 +0000] [29093] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:38:08 +0000] [29093] [ERROR] Retrying in 1 second.
+[2018-08-20 16:38:08 +0000] [29060] [INFO] Parent changed, shutting down: <Worker 29060>
+[2018-08-20 16:38:08 +0000] [29060] [INFO] Worker exiting (pid: 29060)
+[2018-08-20 16:38:09 +0000] [29093] [INFO] Listening at: https://0.0.0.0:8081 (29093)
+[2018-08-20 16:38:09 +0000] [29093] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:38:09 +0000] [29105] [INFO] Booting worker with pid: 29105
+[2018-08-20 16:38:18 +0000] [29151] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:38:18 +0000] [29151] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:38:18 +0000] [29151] [ERROR] Retrying in 1 second.
+[2018-08-20 16:38:18 +0000] [29105] [INFO] Parent changed, shutting down: <Worker 29105>
+[2018-08-20 16:38:18 +0000] [29105] [INFO] Worker exiting (pid: 29105)
+[2018-08-20 16:38:19 +0000] [29151] [INFO] Listening at: https://0.0.0.0:8081 (29151)
+[2018-08-20 16:38:19 +0000] [29151] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:38:19 +0000] [29163] [INFO] Booting worker with pid: 29163
+[2018-08-20 16:40:06 +0000] [29277] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:40:06 +0000] [29277] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:40:06 +0000] [29277] [ERROR] Retrying in 1 second.
+[2018-08-20 16:40:06 +0000] [29163] [INFO] Parent changed, shutting down: <Worker 29163>
+[2018-08-20 16:40:06 +0000] [29163] [INFO] Worker exiting (pid: 29163)
+[2018-08-20 16:40:07 +0000] [29277] [INFO] Listening at: https://0.0.0.0:8081 (29277)
+[2018-08-20 16:40:07 +0000] [29277] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:40:07 +0000] [29288] [INFO] Booting worker with pid: 29288
+[2018-08-20 16:40:07 +0000] [29289] [INFO] Booting worker with pid: 29289
+[2018-08-20 16:40:30 +0000] [29399] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:40:30 +0000] [29399] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:40:30 +0000] [29399] [ERROR] Retrying in 1 second.
+[2018-08-20 16:40:30 +0000] [29288] [INFO] Parent changed, shutting down: <Worker 29288>
+[2018-08-20 16:40:30 +0000] [29288] [INFO] Worker exiting (pid: 29288)
+[2018-08-20 16:40:30 +0000] [29289] [INFO] Parent changed, shutting down: <Worker 29289>
+[2018-08-20 16:40:30 +0000] [29289] [INFO] Worker exiting (pid: 29289)
+[2018-08-20 16:40:31 +0000] [29399] [INFO] Listening at: https://0.0.0.0:8081 (29399)
+[2018-08-20 16:40:31 +0000] [29399] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:40:31 +0000] [29410] [INFO] Booting worker with pid: 29410
+[2018-08-20 16:40:31 +0000] [29411] [INFO] Booting worker with pid: 29411
+[2018-08-20 16:40:37 +0000] [29462] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:40:37 +0000] [29462] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:40:37 +0000] [29462] [ERROR] Retrying in 1 second.
+[2018-08-20 16:40:37 +0000] [29410] [INFO] Parent changed, shutting down: <Worker 29410>
+[2018-08-20 16:40:37 +0000] [29410] [INFO] Worker exiting (pid: 29410)
+[2018-08-20 16:40:37 +0000] [29411] [INFO] Parent changed, shutting down: <Worker 29411>
+[2018-08-20 16:40:37 +0000] [29411] [INFO] Worker exiting (pid: 29411)
+[2018-08-20 16:40:38 +0000] [29462] [INFO] Listening at: https://0.0.0.0:8081 (29462)
+[2018-08-20 16:40:38 +0000] [29462] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:40:38 +0000] [29473] [INFO] Booting worker with pid: 29473
+[2018-08-20 16:40:38 +0000] [29475] [INFO] Booting worker with pid: 29475
+[2018-08-20 16:41:05 +0000] [29532] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:41:05 +0000] [29532] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:41:05 +0000] [29532] [ERROR] Retrying in 1 second.
+[2018-08-20 16:41:05 +0000] [29473] [INFO] Parent changed, shutting down: <Worker 29473>
+[2018-08-20 16:41:05 +0000] [29473] [INFO] Worker exiting (pid: 29473)
+[2018-08-20 16:41:05 +0000] [29475] [INFO] Parent changed, shutting down: <Worker 29475>
+[2018-08-20 16:41:05 +0000] [29475] [INFO] Worker exiting (pid: 29475)
+[2018-08-20 16:41:06 +0000] [29532] [INFO] Listening at: https://0.0.0.0:8081 (29532)
+[2018-08-20 16:41:06 +0000] [29532] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:41:06 +0000] [29543] [INFO] Booting worker with pid: 29543
+[2018-08-20 16:41:06 +0000] [29544] [INFO] Booting worker with pid: 29544
+[2018-08-20 16:41:21 +0000] [29543] [INFO] Parent changed, shutting down: <Worker 29543>
+[2018-08-20 16:41:21 +0000] [29543] [INFO] Worker exiting (pid: 29543)
+[2018-08-20 16:41:21 +0000] [29642] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:41:21 +0000] [29642] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:41:21 +0000] [29642] [ERROR] Retrying in 1 second.
+[2018-08-20 16:41:21 +0000] [29544] [INFO] Parent changed, shutting down: <Worker 29544>
+[2018-08-20 16:41:21 +0000] [29544] [INFO] Worker exiting (pid: 29544)
+[2018-08-20 16:41:22 +0000] [29642] [INFO] Listening at: https://0.0.0.0:8081 (29642)
+[2018-08-20 16:41:22 +0000] [29642] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:41:22 +0000] [29653] [INFO] Booting worker with pid: 29653
+[2018-08-20 16:41:22 +0000] [29654] [INFO] Booting worker with pid: 29654
+[2018-08-20 16:41:46 +0000] [29653] [INFO] Parent changed, shutting down: <Worker 29653>
+[2018-08-20 16:41:46 +0000] [29653] [INFO] Worker exiting (pid: 29653)
+[2018-08-20 16:41:46 +0000] [29654] [INFO] Parent changed, shutting down: <Worker 29654>
+[2018-08-20 16:41:46 +0000] [29654] [INFO] Worker exiting (pid: 29654)
+[2018-08-20 16:41:47 +0000] [29738] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:41:47 +0000] [29738] [INFO] Listening at: https://0.0.0.0:8081 (29738)
+[2018-08-20 16:41:47 +0000] [29738] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:41:47 +0000] [29743] [INFO] Booting worker with pid: 29743
+[2018-08-20 16:41:53 +0000] [29793] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:41:53 +0000] [29793] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:41:53 +0000] [29793] [ERROR] Retrying in 1 second.
+[2018-08-20 16:41:54 +0000] [29743] [INFO] Parent changed, shutting down: <Worker 29743>
+[2018-08-20 16:41:54 +0000] [29743] [INFO] Worker exiting (pid: 29743)
+[2018-08-20 16:41:54 +0000] [29793] [INFO] Listening at: https://0.0.0.0:8081 (29793)
+[2018-08-20 16:41:55 +0000] [29793] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:41:55 +0000] [29804] [INFO] Booting worker with pid: 29804
+[2018-08-20 16:42:41 +0000] [29804] [INFO] Parent changed, shutting down: <Worker 29804>
+[2018-08-20 16:42:41 +0000] [29804] [INFO] Worker exiting (pid: 29804)
+[2018-08-20 16:42:41 +0000] [29864] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:42:41 +0000] [29864] [INFO] Listening at: https://0.0.0.0:8081 (29864)
+[2018-08-20 16:42:41 +0000] [29864] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:42:41 +0000] [29869] [INFO] Booting worker with pid: 29869
+[2018-08-20 16:42:51 +0000] [29864] [INFO] Handling signal: int
+[2018-08-20 16:42:51 +0000] [29869] [INFO] Worker exiting (pid: 29869)
+[2018-08-20 16:42:51 +0000] [29864] [INFO] Shutting down: Master
+[2018-08-20 16:43:42 +0000] [29969] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:43:42 +0000] [29969] [INFO] Listening at: https://0.0.0.0:8081 (29969)
+[2018-08-20 16:43:42 +0000] [29969] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:43:42 +0000] [29981] [INFO] Booting worker with pid: 29981
+[2018-08-20 16:43:43 +0000] [29981] [INFO] Parent changed, shutting down: <Worker 29981>
+[2018-08-20 16:43:43 +0000] [29981] [INFO] Worker exiting (pid: 29981)
+[2018-08-20 16:43:44 +0000] [30002] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:43:44 +0000] [30002] [INFO] Listening at: https://0.0.0.0:8081 (30002)
+[2018-08-20 16:43:44 +0000] [30002] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:43:44 +0000] [30014] [INFO] Booting worker with pid: 30014
+[2018-08-20 16:43:52 +0000] [30041] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:43:52 +0000] [30041] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:43:52 +0000] [30041] [ERROR] Retrying in 1 second.
+[2018-08-20 16:43:53 +0000] [30014] [INFO] Parent changed, shutting down: <Worker 30014>
+[2018-08-20 16:43:53 +0000] [30014] [INFO] Worker exiting (pid: 30014)
+[2018-08-20 16:43:53 +0000] [30041] [INFO] Listening at: https://0.0.0.0:8081 (30041)
+[2018-08-20 16:43:53 +0000] [30041] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:43:53 +0000] [30054] [INFO] Booting worker with pid: 30054
+[2018-08-20 16:44:11 +0000] [30054] [INFO] Parent changed, shutting down: <Worker 30054>
+[2018-08-20 16:44:11 +0000] [30054] [INFO] Worker exiting (pid: 30054)
+[2018-08-20 16:44:11 +0000] [30089] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:44:11 +0000] [30089] [INFO] Listening at: https://0.0.0.0:8081 (30089)
+[2018-08-20 16:44:11 +0000] [30089] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:44:11 +0000] [30101] [INFO] Booting worker with pid: 30101
+[2018-08-20 16:44:17 +0000] [30101] [INFO] Parent changed, shutting down: <Worker 30101>
+[2018-08-20 16:44:17 +0000] [30101] [INFO] Worker exiting (pid: 30101)
+[2018-08-20 16:44:17 +0000] [30126] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:44:17 +0000] [30126] [INFO] Listening at: https://0.0.0.0:8081 (30126)
+[2018-08-20 16:44:17 +0000] [30126] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:44:17 +0000] [30138] [INFO] Booting worker with pid: 30138
+[2018-08-20 16:44:25 +0000] [30138] [INFO] Parent changed, shutting down: <Worker 30138>
+[2018-08-20 16:44:25 +0000] [30138] [INFO] Worker exiting (pid: 30138)
+[2018-08-20 16:44:28 +0000] [30178] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:44:28 +0000] [30178] [INFO] Listening at: https://0.0.0.0:8081 (30178)
+[2018-08-20 16:44:28 +0000] [30178] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:44:28 +0000] [30190] [INFO] Booting worker with pid: 30190
+[2018-08-20 16:44:54 +0000] [30268] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:44:54 +0000] [30268] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:44:54 +0000] [30268] [ERROR] Retrying in 1 second.
+[2018-08-20 16:44:55 +0000] [30190] [INFO] Parent changed, shutting down: <Worker 30190>
+[2018-08-20 16:44:55 +0000] [30190] [INFO] Worker exiting (pid: 30190)
+[2018-08-20 16:44:55 +0000] [30268] [INFO] Listening at: https://0.0.0.0:8081 (30268)
+[2018-08-20 16:44:55 +0000] [30268] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:44:55 +0000] [30281] [INFO] Booting worker with pid: 30281
+[2018-08-20 16:45:34 +0000] [30281] [INFO] Parent changed, shutting down: <Worker 30281>
+[2018-08-20 16:45:34 +0000] [30281] [INFO] Worker exiting (pid: 30281)
+[2018-08-20 16:46:04 +0000] [30384] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:46:04 +0000] [30384] [INFO] Listening at: https://0.0.0.0:8081 (30384)
+[2018-08-20 16:46:04 +0000] [30384] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:46:04 +0000] [30389] [INFO] Booting worker with pid: 30389
+[2018-08-20 16:46:32 +0000] [30455] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:46:32 +0000] [30455] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:46:32 +0000] [30455] [ERROR] Retrying in 1 second.
+[2018-08-20 16:46:32 +0000] [30389] [INFO] Parent changed, shutting down: <Worker 30389>
+[2018-08-20 16:46:32 +0000] [30389] [INFO] Worker exiting (pid: 30389)
+[2018-08-20 16:46:33 +0000] [30455] [INFO] Listening at: http://0.0.0.0:8081 (30455)
+[2018-08-20 16:46:33 +0000] [30455] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:46:33 +0000] [30467] [INFO] Booting worker with pid: 30467
+[2018-08-20 16:46:43 +0000] [30527] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:46:43 +0000] [30527] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:46:43 +0000] [30527] [ERROR] Retrying in 1 second.
+[2018-08-20 16:46:43 +0000] [30467] [INFO] Parent changed, shutting down: <Worker 30467>
+[2018-08-20 16:46:43 +0000] [30467] [INFO] Worker exiting (pid: 30467)
+[2018-08-20 16:46:44 +0000] [30527] [INFO] Listening at: http://0.0.0.0:8081 (30527)
+[2018-08-20 16:46:44 +0000] [30527] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:46:44 +0000] [30538] [INFO] Booting worker with pid: 30538
+[2018-08-20 16:47:56 +0000] [30527] [INFO] Handling signal: hup
+[2018-08-20 16:47:56 +0000] [30527] [INFO] Hang up: Master
+[2018-08-20 16:47:56 +0000] [30624] [INFO] Booting worker with pid: 30624
+[2018-08-20 16:48:12 +0000] [30538] [INFO] Parent changed, shutting down: <Worker 30538>
+[2018-08-20 16:48:12 +0000] [30538] [INFO] Worker exiting (pid: 30538)
+[2018-08-20 16:48:12 +0000] [30677] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:48:12 +0000] [30677] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:48:12 +0000] [30677] [ERROR] Retrying in 1 second.
+[2018-08-20 16:48:13 +0000] [30624] [INFO] Parent changed, shutting down: <Worker 30624>
+[2018-08-20 16:48:13 +0000] [30624] [INFO] Worker exiting (pid: 30624)
+[2018-08-20 16:48:13 +0000] [30677] [INFO] Listening at: http://0.0.0.0:8081 (30677)
+[2018-08-20 16:48:13 +0000] [30677] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:48:13 +0000] [30688] [INFO] Booting worker with pid: 30688
+[2018-08-20 16:48:22 +0000] [30677] [INFO] Handling signal: hup
+[2018-08-20 16:48:22 +0000] [30677] [INFO] Hang up: Master
+[2018-08-20 16:48:22 +0000] [30732] [INFO] Booting worker with pid: 30732
+[2018-08-20 16:48:39 +0000] [30784] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:48:39 +0000] [30784] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:48:39 +0000] [30784] [ERROR] Retrying in 1 second.
+[2018-08-20 16:48:40 +0000] [30732] [INFO] Parent changed, shutting down: <Worker 30732>
+[2018-08-20 16:48:40 +0000] [30732] [INFO] Worker exiting (pid: 30732)
+[2018-08-20 16:48:40 +0000] [30688] [INFO] Parent changed, shutting down: <Worker 30688>
+[2018-08-20 16:48:40 +0000] [30688] [INFO] Worker exiting (pid: 30688)
+[2018-08-20 16:48:40 +0000] [30784] [INFO] Listening at: http://0.0.0.0:8081 (30784)
+[2018-08-20 16:48:40 +0000] [30784] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:48:40 +0000] [30795] [INFO] Booting worker with pid: 30795
+[2018-08-20 16:48:46 +0000] [30784] [INFO] Handling signal: hup
+[2018-08-20 16:48:46 +0000] [30784] [INFO] Hang up: Master
+[2018-08-20 16:48:46 +0000] [30819] [INFO] Booting worker with pid: 30819
+[2018-08-20 16:49:12 +0000] [30784] [INFO] Handling signal: hup
+[2018-08-20 16:49:12 +0000] [30784] [INFO] Hang up: Master
+[2018-08-20 16:49:12 +0000] [30878] [INFO] Booting worker with pid: 30878
+[2018-08-20 16:49:17 +0000] [30795] [WARNING] Worker graceful timeout (pid:30795)
+[2018-08-20 16:49:18 +0000] [30795] [INFO] Worker exiting (pid: 30795)
+[2018-08-20 16:49:26 +0000] [30784] [INFO] Handling signal: hup
+[2018-08-20 16:49:26 +0000] [30784] [INFO] Hang up: Master
+[2018-08-20 16:49:26 +0000] [30946] [INFO] Booting worker with pid: 30946
+[2018-08-20 16:49:40 +0000] [30784] [INFO] Handling signal: hup
+[2018-08-20 16:49:40 +0000] [30784] [INFO] Hang up: Master
+[2018-08-20 16:49:40 +0000] [30998] [INFO] Booting worker with pid: 30998
+[2018-08-20 16:49:41 +0000] [30946] [INFO] Worker exiting (pid: 30946)
+[2018-08-20 16:49:43 +0000] [30819] [WARNING] Worker graceful timeout (pid:30819)
+[2018-08-20 16:49:44 +0000] [30819] [INFO] Worker exiting (pid: 30819)
+[2018-08-20 16:49:57 +0000] [30878] [WARNING] Worker graceful timeout (pid:30878)
+[2018-08-20 16:49:58 +0000] [30878] [INFO] Worker exiting (pid: 30878)
+[2018-08-20 16:50:07 +0000] [30998] [INFO] Parent changed, shutting down: <Worker 30998>
+[2018-08-20 16:50:07 +0000] [30998] [INFO] Worker exiting (pid: 30998)
+[2018-08-20 16:50:07 +0000] [31060] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:50:07 +0000] [31060] [INFO] Listening at: http://0.0.0.0:8081 (31060)
+[2018-08-20 16:50:07 +0000] [31060] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:50:07 +0000] [31065] [INFO] Booting worker with pid: 31065
+[2018-08-20 16:50:18 +0000] [31060] [INFO] Handling signal: hup
+[2018-08-20 16:50:18 +0000] [31060] [INFO] Hang up: Master
+[2018-08-20 16:50:18 +0000] [31142] [INFO] Booting worker with pid: 31142
+[2018-08-20 16:50:49 +0000] [31060] [INFO] Handling signal: hup
+[2018-08-20 16:50:49 +0000] [31060] [INFO] Hang up: Master
+[2018-08-20 16:50:49 +0000] [31195] [INFO] Booting worker with pid: 31195
+[2018-08-20 16:50:49 +0000] [31065] [WARNING] Worker graceful timeout (pid:31065)
+[2018-08-20 16:50:50 +0000] [31142] [INFO] Worker exiting (pid: 31142)
+[2018-08-20 16:50:50 +0000] [31065] [INFO] Worker exiting (pid: 31065)
+[2018-08-20 16:50:58 +0000] [31060] [INFO] Handling signal: hup
+[2018-08-20 16:50:58 +0000] [31060] [INFO] Hang up: Master
+[2018-08-20 16:50:58 +0000] [31240] [INFO] Booting worker with pid: 31240
+[2018-08-20 16:51:29 +0000] [31195] [WARNING] Worker graceful timeout (pid:31195)
+[2018-08-20 16:51:30 +0000] [31195] [INFO] Worker exiting (pid: 31195)
+[2018-08-20 16:52:53 +0000] [31060] [INFO] Handling signal: hup
+[2018-08-20 16:52:53 +0000] [31060] [INFO] Hang up: Master
+[2018-08-20 16:52:53 +0000] [31358] [INFO] Booting worker with pid: 31358
+[2018-08-20 16:52:54 +0000] [31240] [INFO] Worker exiting (pid: 31240)
+[2018-08-20 16:53:05 +0000] [31391] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:53:05 +0000] [31391] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:53:05 +0000] [31391] [ERROR] Retrying in 1 second.
+[2018-08-20 16:53:06 +0000] [31358] [INFO] Parent changed, shutting down: <Worker 31358>
+[2018-08-20 16:53:06 +0000] [31358] [INFO] Worker exiting (pid: 31358)
+[2018-08-20 16:53:06 +0000] [31391] [INFO] Listening at: https://0.0.0.0:8081 (31391)
+[2018-08-20 16:53:06 +0000] [31391] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:53:06 +0000] [31402] [INFO] Booting worker with pid: 31402
+[2018-08-20 16:53:14 +0000] [31391] [INFO] Handling signal: hup
+[2018-08-20 16:53:14 +0000] [31391] [INFO] Hang up: Master
+[2018-08-20 16:53:14 +0000] [31436] [INFO] Booting worker with pid: 31436
+[2018-08-20 16:53:30 +0000] [31391] [INFO] Handling signal: hup
+[2018-08-20 16:53:30 +0000] [31391] [INFO] Hang up: Master
+[2018-08-20 16:53:30 +0000] [31493] [INFO] Booting worker with pid: 31493
+[2018-08-20 16:53:45 +0000] [31402] [WARNING] Worker graceful timeout (pid:31402)
+[2018-08-20 16:53:46 +0000] [31402] [INFO] Worker exiting (pid: 31402)
+[2018-08-20 16:54:01 +0000] [31744] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:54:01 +0000] [31744] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 16:54:01 +0000] [31744] [ERROR] Retrying in 1 second.
+[2018-08-20 16:54:01 +0000] [31436] [WARNING] Worker graceful timeout (pid:31436)
+[2018-08-20 16:54:02 +0000] [31493] [INFO] Parent changed, shutting down: <Worker 31493>
+[2018-08-20 16:54:02 +0000] [31493] [INFO] Worker exiting (pid: 31493)
+[2018-08-20 16:54:02 +0000] [31744] [INFO] Listening at: https://0.0.0.0:8081 (31744)
+[2018-08-20 16:54:02 +0000] [31744] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:54:02 +0000] [31756] [INFO] Booting worker with pid: 31756
+[2018-08-20 16:54:02 +0000] [31436] [INFO] Worker exiting (pid: 31436)
+[2018-08-20 16:58:54 +0000] [31756] [INFO] Parent changed, shutting down: <Worker 31756>
+[2018-08-20 16:58:54 +0000] [31756] [INFO] Worker exiting (pid: 31756)
+[2018-08-20 16:58:54 +0000] [32030] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 16:58:54 +0000] [32030] [INFO] Listening at: https://0.0.0.0:8081 (32030)
+[2018-08-20 16:58:54 +0000] [32030] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 16:58:54 +0000] [32035] [INFO] Booting worker with pid: 32035
+[2018-08-20 16:59:05,053] ERROR in app: Exception on /system [GET]
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/www/server/BTPanel/BTPanel/__init__.py", line 421, in system
+    return publicObject(sysObject,defs,None,pdata);
+  File "/www/server/BTPanel/BTPanel/__init__.py", line 723, in publicObject
+    return public.GetJson(eval(fun)),json_header
+  File "<string>", line 1, in <module>
+  File "class/system.py", line 652, in ReWeb
+    shell.send("/etc/init.d/bt restart\n")
+AttributeError: 'NoneType' object has no attribute 'send'
+[2018-08-20 17:03:18 +0000] [32518] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:03:18 +0000] [32518] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:03:18 +0000] [32518] [ERROR] Retrying in 1 second.
+[2018-08-20 17:03:18 +0000] [32035] [INFO] Parent changed, shutting down: <Worker 32035>
+[2018-08-20 17:03:18 +0000] [32035] [INFO] Worker exiting (pid: 32035)
+[2018-08-20 17:03:19 +0000] [32518] [INFO] Listening at: https://0.0.0.0:8081 (32518)
+[2018-08-20 17:03:19 +0000] [32518] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:03:19 +0000] [32531] [INFO] Booting worker with pid: 32531
+[2018-08-20 17:03:21,282] ERROR in app: Exception on /system [GET]
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/www/server/BTPanel/BTPanel/__init__.py", line 421, in system
+    return publicObject(sysObject,defs,None,pdata);
+  File "/www/server/BTPanel/BTPanel/__init__.py", line 723, in publicObject
+    return public.GetJson(eval(fun)),json_header
+  File "<string>", line 1, in <module>
+  File "class/system.py", line 652, in ReWeb
+    if not self.shell: connect_ssh()
+NameError: global name 'connect_ssh' is not defined
+[2018-08-20 17:03:56 +0000] [32588] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:03:56 +0000] [32588] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:03:56 +0000] [32588] [ERROR] Retrying in 1 second.
+[2018-08-20 17:03:56 +0000] [32531] [INFO] Parent changed, shutting down: <Worker 32531>
+[2018-08-20 17:03:56 +0000] [32531] [INFO] Worker exiting (pid: 32531)
+[2018-08-20 17:03:57 +0000] [32588] [INFO] Listening at: https://0.0.0.0:8081 (32588)
+[2018-08-20 17:03:57 +0000] [32588] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:03:57 +0000] [32599] [INFO] Booting worker with pid: 32599
+[2018-08-20 17:03:59,172] ERROR in app: Exception on /system [GET]
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/www/server/BTPanel/BTPanel/__init__.py", line 421, in system
+    return publicObject(sysObject,defs,None,pdata);
+  File "/www/server/BTPanel/BTPanel/__init__.py", line 723, in publicObject
+    return public.GetJson(eval(fun)),json_header
+  File "<string>", line 1, in <module>
+  File "class/system.py", line 652, in ReWeb
+    if not self.shell: self.connect_ssh()
+  File "class/system.py", line 658, in connect_ssh
+    self.ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+AttributeError: 'NoneType' object has no attribute 'set_missing_host_key_policy'
+[2018-08-20 17:04:54 +0000] [32599] [INFO] Parent changed, shutting down: <Worker 32599>
+[2018-08-20 17:04:54 +0000] [32599] [INFO] Worker exiting (pid: 32599)
+[2018-08-20 17:04:54 +0000] [32671] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:04:54 +0000] [32671] [INFO] Listening at: https://0.0.0.0:8081 (32671)
+[2018-08-20 17:04:54 +0000] [32671] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:04:54 +0000] [32676] [INFO] Booting worker with pid: 32676
+[2018-08-20 17:04:58 +0000] [32897] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:04:58 +0000] [32897] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:04:58 +0000] [32897] [ERROR] Retrying in 1 second.
+[2018-08-20 17:04:59 +0000] [32676] [INFO] Parent changed, shutting down: <Worker 32676>
+[2018-08-20 17:04:59 +0000] [32676] [INFO] Worker exiting (pid: 32676)
+[2018-08-20 17:04:59 +0000] [32897] [INFO] Listening at: https://0.0.0.0:8081 (32897)
+[2018-08-20 17:04:59 +0000] [32897] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:04:59 +0000] [32909] [INFO] Booting worker with pid: 32909
+[2018-08-20 17:05:18 +0000] [33155] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:05:18 +0000] [33155] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:05:18 +0000] [33155] [ERROR] Retrying in 1 second.
+[2018-08-20 17:05:18 +0000] [32909] [INFO] Parent changed, shutting down: <Worker 32909>
+[2018-08-20 17:05:18 +0000] [32909] [INFO] Worker exiting (pid: 32909)
+[2018-08-20 17:05:19 +0000] [33155] [INFO] Listening at: http://0.0.0.0:8081 (33155)
+[2018-08-20 17:05:19 +0000] [33155] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:05:19 +0000] [33162] [INFO] Booting worker with pid: 33162
+[2018-08-20 17:05:33 +0000] [33417] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:05:33 +0000] [33417] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:05:33 +0000] [33417] [ERROR] Retrying in 1 second.
+[2018-08-20 17:05:33 +0000] [33162] [INFO] Parent changed, shutting down: <Worker 33162>
+[2018-08-20 17:05:33 +0000] [33162] [INFO] Worker exiting (pid: 33162)
+[2018-08-20 17:05:34 +0000] [33417] [INFO] Listening at: https://0.0.0.0:8081 (33417)
+[2018-08-20 17:05:34 +0000] [33417] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:05:34 +0000] [33424] [INFO] Booting worker with pid: 33424
+[2018-08-20 17:05:42 +0000] [33424] [INFO] Parent changed, shutting down: <Worker 33424>
+[2018-08-20 17:05:42 +0000] [33424] [INFO] Worker exiting (pid: 33424)
+[2018-08-20 17:05:59 +0000] [33688] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:05:59 +0000] [33688] [INFO] Listening at: http://0.0.0.0:8081 (33688)
+[2018-08-20 17:05:59 +0000] [33688] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:05:59 +0000] [33693] [INFO] Booting worker with pid: 33693
+[2018-08-20 17:06:09 +0000] [33939] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:06:09 +0000] [33939] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:06:09 +0000] [33939] [ERROR] Retrying in 1 second.
+[2018-08-20 17:06:09 +0000] [33693] [INFO] Parent changed, shutting down: <Worker 33693>
+[2018-08-20 17:06:09 +0000] [33693] [INFO] Worker exiting (pid: 33693)
+[2018-08-20 17:06:10 +0000] [33939] [INFO] Listening at: https://0.0.0.0:8081 (33939)
+[2018-08-20 17:06:10 +0000] [33939] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:06:10 +0000] [33945] [INFO] Booting worker with pid: 33945
+[2018-08-20 17:06:16 +0000] [33945] [INFO] Parent changed, shutting down: <Worker 33945>
+[2018-08-20 17:06:16 +0000] [33945] [INFO] Worker exiting (pid: 33945)
+[2018-08-20 17:07:05 +0000] [34236] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:07:05 +0000] [34236] [INFO] Listening at: http://0.0.0.0:8081 (34236)
+[2018-08-20 17:07:05 +0000] [34236] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:07:05 +0000] [34242] [INFO] Booting worker with pid: 34242
+[2018-08-20 17:07:23 +0000] [34510] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:07:23 +0000] [34510] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:07:23 +0000] [34510] [ERROR] Retrying in 1 second.
+[2018-08-20 17:07:23 +0000] [34242] [INFO] Parent changed, shutting down: <Worker 34242>
+[2018-08-20 17:07:23 +0000] [34242] [INFO] Worker exiting (pid: 34242)
+[2018-08-20 17:07:24 +0000] [34510] [INFO] Listening at: http://0.0.0.0:8081 (34510)
+[2018-08-20 17:07:24 +0000] [34510] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:07:24 +0000] [34522] [INFO] Booting worker with pid: 34522
+[2018-08-20 17:07:32 +0000] [34759] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:07:32 +0000] [34759] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:07:32 +0000] [34759] [ERROR] Retrying in 1 second.
+[2018-08-20 17:07:33 +0000] [34522] [INFO] Parent changed, shutting down: <Worker 34522>
+[2018-08-20 17:07:33 +0000] [34522] [INFO] Worker exiting (pid: 34522)
+[2018-08-20 17:07:33 +0000] [34759] [INFO] Listening at: http://0.0.0.0:8081 (34759)
+[2018-08-20 17:07:33 +0000] [34759] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:07:33 +0000] [34772] [INFO] Booting worker with pid: 34772
+[2018-08-20 17:07:50 +0000] [35042] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:07:50 +0000] [35042] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:07:50 +0000] [35042] [ERROR] Retrying in 1 second.
+[2018-08-20 17:07:50 +0000] [34772] [INFO] Parent changed, shutting down: <Worker 34772>
+[2018-08-20 17:07:50 +0000] [34772] [INFO] Worker exiting (pid: 34772)
+[2018-08-20 17:07:51 +0000] [35042] [INFO] Listening at: http://0.0.0.0:8081 (35042)
+[2018-08-20 17:07:51 +0000] [35042] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:07:51 +0000] [35050] [INFO] Booting worker with pid: 35050
+[2018-08-20 17:07:54 +0000] [35266] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:07:54 +0000] [35266] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:07:54 +0000] [35266] [ERROR] Retrying in 1 second.
+[2018-08-20 17:07:54 +0000] [35050] [INFO] Parent changed, shutting down: <Worker 35050>
+[2018-08-20 17:07:54 +0000] [35050] [INFO] Worker exiting (pid: 35050)
+[2018-08-20 17:07:55 +0000] [35266] [INFO] Listening at: http://0.0.0.0:8081 (35266)
+[2018-08-20 17:07:55 +0000] [35266] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:07:55 +0000] [35279] [INFO] Booting worker with pid: 35279
+[2018-08-20 17:08:06 +0000] [35534] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:08:06 +0000] [35534] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:08:06 +0000] [35534] [ERROR] Retrying in 1 second.
+[2018-08-20 17:08:06 +0000] [35279] [INFO] Parent changed, shutting down: <Worker 35279>
+[2018-08-20 17:08:06 +0000] [35279] [INFO] Worker exiting (pid: 35279)
+[2018-08-20 17:08:07 +0000] [35534] [INFO] Listening at: http://0.0.0.0:8081 (35534)
+[2018-08-20 17:08:07 +0000] [35534] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:08:07 +0000] [35547] [INFO] Booting worker with pid: 35547
+[2018-08-20 17:08:22 +0000] [35803] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:08:22 +0000] [35803] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:08:22 +0000] [35803] [ERROR] Retrying in 1 second.
+[2018-08-20 17:08:22 +0000] [35547] [INFO] Parent changed, shutting down: <Worker 35547>
+[2018-08-20 17:08:22 +0000] [35547] [INFO] Worker exiting (pid: 35547)
+[2018-08-20 17:08:23 +0000] [35803] [INFO] Listening at: http://0.0.0.0:8081 (35803)
+[2018-08-20 17:08:23 +0000] [35803] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:08:23 +0000] [35810] [INFO] Booting worker with pid: 35810
+[2018-08-20 17:08:37 +0000] [36073] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:08:37 +0000] [36073] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:08:37 +0000] [36073] [ERROR] Retrying in 1 second.
+[2018-08-20 17:08:37 +0000] [35810] [INFO] Parent changed, shutting down: <Worker 35810>
+[2018-08-20 17:08:37 +0000] [35810] [INFO] Worker exiting (pid: 35810)
+[2018-08-20 17:08:38 +0000] [36073] [INFO] Listening at: https://0.0.0.0:8081 (36073)
+[2018-08-20 17:08:38 +0000] [36073] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:08:38 +0000] [36085] [INFO] Booting worker with pid: 36085
+[2018-08-20 17:09:03 +0000] [36357] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:09:03 +0000] [36357] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:09:03 +0000] [36357] [ERROR] Retrying in 1 second.
+[2018-08-20 17:09:04 +0000] [36085] [INFO] Parent changed, shutting down: <Worker 36085>
+[2018-08-20 17:09:04 +0000] [36085] [INFO] Worker exiting (pid: 36085)
+[2018-08-20 17:09:04 +0000] [36357] [INFO] Listening at: https://0.0.0.0:8081 (36357)
+[2018-08-20 17:09:04 +0000] [36357] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:09:04 +0000] [36369] [INFO] Booting worker with pid: 36369
+[2018-08-20 17:09:14 +0000] [36591] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:09:14 +0000] [36591] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:09:14 +0000] [36591] [ERROR] Retrying in 1 second.
+[2018-08-20 17:09:15 +0000] [36369] [INFO] Parent changed, shutting down: <Worker 36369>
+[2018-08-20 17:09:15 +0000] [36369] [INFO] Worker exiting (pid: 36369)
+[2018-08-20 17:09:15 +0000] [36591] [INFO] Listening at: https://0.0.0.0:8081 (36591)
+[2018-08-20 17:09:15 +0000] [36591] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:09:15 +0000] [36603] [INFO] Booting worker with pid: 36603
+[2018-08-20 17:09:29 +0000] [36603] [INFO] Parent changed, shutting down: <Worker 36603>
+[2018-08-20 17:09:29 +0000] [36603] [INFO] Worker exiting (pid: 36603)
+[2018-08-20 17:10:24 +0000] [36913] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:10:24 +0000] [36913] [INFO] Listening at: http://0.0.0.0:8081 (36913)
+[2018-08-20 17:10:24 +0000] [36913] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:10:24 +0000] [36919] [INFO] Booting worker with pid: 36919
+[2018-08-20 17:10:33 +0000] [37164] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:10:33 +0000] [37164] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:10:33 +0000] [37164] [ERROR] Retrying in 1 second.
+[2018-08-20 17:10:33 +0000] [36919] [INFO] Parent changed, shutting down: <Worker 36919>
+[2018-08-20 17:10:33 +0000] [36919] [INFO] Worker exiting (pid: 36919)
+[2018-08-20 17:10:34 +0000] [37164] [INFO] Listening at: https://0.0.0.0:8081 (37164)
+[2018-08-20 17:10:34 +0000] [37164] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:10:34 +0000] [37176] [INFO] Booting worker with pid: 37176
+[2018-08-20 17:10:38 +0000] [37398] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:10:38 +0000] [37398] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:10:38 +0000] [37398] [ERROR] Retrying in 1 second.
+[2018-08-20 17:10:38 +0000] [37176] [INFO] Parent changed, shutting down: <Worker 37176>
+[2018-08-20 17:10:38 +0000] [37176] [INFO] Worker exiting (pid: 37176)
+[2018-08-20 17:10:39 +0000] [37398] [INFO] Listening at: http://0.0.0.0:8081 (37398)
+[2018-08-20 17:10:39 +0000] [37398] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:10:39 +0000] [37405] [INFO] Booting worker with pid: 37405
+[2018-08-20 17:10:48 +0000] [37649] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:10:48 +0000] [37649] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:10:48 +0000] [37649] [ERROR] Retrying in 1 second.
+[2018-08-20 17:10:48 +0000] [37405] [INFO] Parent changed, shutting down: <Worker 37405>
+[2018-08-20 17:10:48 +0000] [37405] [INFO] Worker exiting (pid: 37405)
+[2018-08-20 17:10:49 +0000] [37649] [INFO] Listening at: https://0.0.0.0:8081 (37649)
+[2018-08-20 17:10:49 +0000] [37649] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:10:49 +0000] [37662] [INFO] Booting worker with pid: 37662
+[2018-08-20 17:10:53 +0000] [37883] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:10:53 +0000] [37883] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:10:53 +0000] [37883] [ERROR] Retrying in 1 second.
+[2018-08-20 17:10:53 +0000] [37662] [INFO] Parent changed, shutting down: <Worker 37662>
+[2018-08-20 17:10:53 +0000] [37662] [INFO] Worker exiting (pid: 37662)
+[2018-08-20 17:10:54 +0000] [37883] [INFO] Listening at: http://0.0.0.0:8081 (37883)
+[2018-08-20 17:10:54 +0000] [37883] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:10:54 +0000] [37896] [INFO] Booting worker with pid: 37896
+[2018-08-20 17:14:17 +0000] [38320] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:14:17 +0000] [38320] [ERROR] Connection in use: ('0.0.0.0', 8081)
+[2018-08-20 17:14:17 +0000] [38320] [ERROR] Retrying in 1 second.
+[2018-08-20 17:14:17 +0000] [37896] [INFO] Parent changed, shutting down: <Worker 37896>
+[2018-08-20 17:14:17 +0000] [37896] [INFO] Worker exiting (pid: 37896)
+[2018-08-20 17:14:18 +0000] [38320] [INFO] Listening at: http://0.0.0.0:8081 (38320)
+[2018-08-20 17:14:18 +0000] [38320] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:14:18 +0000] [38332] [INFO] Booting worker with pid: 38332
+[2018-08-20 17:17:37 +0000] [38332] [INFO] Parent changed, shutting down: <Worker 38332>
+[2018-08-20 17:17:37 +0000] [38332] [INFO] Worker exiting (pid: 38332)
+[2018-08-20 17:17:37 +0000] [38712] [INFO] Starting gunicorn 19.9.0
+[2018-08-20 17:17:37 +0000] [38712] [INFO] Listening at: http://0.0.0.0:8888 (38712)
+[2018-08-20 17:17:37 +0000] [38712] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-08-20 17:17:37 +0000] [38717] [INFO] Booting worker with pid: 38717
+[2018-12-23 10:36:19 +0000] [2388] [INFO] Starting gunicorn 19.9.0
+[2018-12-23 10:36:19 +0000] [2388] [INFO] Listening at: http://0.0.0.0:8888 (2388)
+[2018-12-23 10:36:19 +0000] [2388] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-12-23 10:36:19 +0000] [2394] [INFO] Booting worker with pid: 2394
+[2018-12-23 10:36:21 +0000] [2468] [INFO] Starting gunicorn 19.9.0
+[2018-12-23 10:36:21 +0000] [2468] [INFO] Listening at: http://0.0.0.0:8888 (2468)
+[2018-12-23 10:36:21 +0000] [2468] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-12-23 10:36:21 +0000] [2474] [INFO] Booting worker with pid: 2474
+[2018-12-23 10:37:30 +0000] [2775] [INFO] Starting gunicorn 19.9.0
+[2018-12-23 10:37:30 +0000] [2775] [INFO] Listening at: http://0.0.0.0:8888 (2775)
+[2018-12-23 10:37:30 +0000] [2775] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2018-12-23 10:37:30 +0000] [2780] [INFO] Booting worker with pid: 2780
