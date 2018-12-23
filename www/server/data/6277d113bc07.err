@@ -1,0 +1,131 @@
+2018-12-23T08:21:32.033745Z 0 [Warning] option 'max_allowed_packet': unsigned value 107374182400 adjusted to 1073741824
+2018-12-23T08:21:32.034250Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2018-12-23T08:21:32.034259Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2018-12-23T08:21:32.037627Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2018-12-23T08:21:32.037675Z 0 [Note] /www/server/mysql/bin/mysqld (mysqld 5.7.19-log) starting as process 98816 ...
+2018-12-23T08:21:32.171807Z 0 [Note] InnoDB: PUNCH HOLE support available
+2018-12-23T08:21:32.171845Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-12-23T08:21:32.171851Z 0 [Note] InnoDB: Uses event mutexes
+2018-12-23T08:21:32.171854Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-12-23T08:21:32.171857Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-12-23T08:21:32.171859Z 0 [Note] InnoDB: Using Linux native AIO
+2018-12-23T08:21:32.172178Z 0 [Note] InnoDB: Number of pools: 1
+2018-12-23T08:21:32.172274Z 0 [Note] InnoDB: Using CPU crc32 instructions
+2018-12-23T08:21:32.173323Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2018-12-23T08:21:32.182106Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2018-12-23T08:21:32.183669Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2018-12-23T08:21:32.272312Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-12-23T08:21:32.461143Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2018-12-23T08:21:32.466814Z 0 [Note] InnoDB: Setting file '/www/server/data/ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2018-12-23T08:21:32.707846Z 0 [Note] InnoDB: File '/www/server/data/ibtmp1' size is now 12 MB.
+2018-12-23T08:21:32.721949Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2018-12-23T08:21:32.722010Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2018-12-23T08:21:32.723499Z 0 [Note] InnoDB: Waiting for purge to start
+2018-12-23T08:21:32.775569Z 0 [Note] InnoDB: 5.7.19 started; log sequence number 2540162
+2018-12-23T08:21:32.776355Z 0 [Note] InnoDB: Loading buffer pool(s) from /www/server/data/ib_buffer_pool
+2018-12-23T08:21:32.776809Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2018-12-23T08:21:33.092872Z 0 [Note] InnoDB: Buffer pool(s) load completed at 181223 16:21:33
+2018-12-23T08:21:33.174743Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2018-12-23T08:21:33.174798Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-12-23T08:21:33.174896Z 0 [Note] IPv6 is available.
+2018-12-23T08:21:33.174947Z 0 [Note]   - '::' resolves to '::';
+2018-12-23T08:21:33.175006Z 0 [Note] Server socket created on IP: '::'.
+2018-12-23T08:21:34.085614Z 0 [Note] Event Scheduler: Loaded 0 events
+2018-12-23T08:21:34.085898Z 0 [Note] /www/server/mysql/bin/mysqld: ready for connections.
+Version: '5.7.19-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+2018-12-23T08:21:34.085909Z 0 [Note] Executing 'SELECT * FROM INFORMATION_SCHEMA.TABLES;' to get a list of tables using the deprecated partition engine. You may use the startup option '--disable-partition-engine-check' to skip this check. 
+2018-12-23T08:21:34.085911Z 0 [Note] Beginning of list of non-natively partitioned tables
+2018-12-23T08:21:34.516821Z 0 [Note] End of list of non-natively partitioned tables
+2018-12-23T08:21:41.319400Z 6 [Note] Access denied for user 'root'@'localhost' (using password: NO)
+2018-12-23T08:21:46.544157Z 0 [Warning] option 'max_allowed_packet': unsigned value 107374182400 adjusted to 1073741824
+2018-12-23T08:21:46.544595Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2018-12-23T08:21:46.544605Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2018-12-23T08:21:46.544649Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2018-12-23T08:21:46.544705Z 0 [Note] /www/server/mysql/bin/mysqld (mysqld 5.7.19-log) starting as process 1017 ...
+2018-12-23T08:21:46.676741Z 0 [Note] InnoDB: PUNCH HOLE support available
+2018-12-23T08:21:46.676778Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-12-23T08:21:46.676783Z 0 [Note] InnoDB: Uses event mutexes
+2018-12-23T08:21:46.676788Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-12-23T08:21:46.676792Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-12-23T08:21:46.676796Z 0 [Note] InnoDB: Using Linux native AIO
+2018-12-23T08:21:46.677240Z 0 [Note] InnoDB: Number of pools: 1
+2018-12-23T08:21:46.677354Z 0 [Note] InnoDB: Using CPU crc32 instructions
+2018-12-23T08:21:46.679069Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2018-12-23T08:21:46.687212Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2018-12-23T08:21:46.690087Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2018-12-23T08:21:46.739368Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-12-23T08:21:46.743430Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2540181
+2018-12-23T08:21:46.743473Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2540190
+2018-12-23T08:21:46.743478Z 0 [Note] InnoDB: Database was not shutdown normally!
+2018-12-23T08:21:46.743481Z 0 [Note] InnoDB: Starting crash recovery.
+2018-12-23T08:21:47.050315Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2018-12-23T08:21:47.050342Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2018-12-23T08:21:47.052139Z 0 [Note] InnoDB: Setting file '/www/server/data/ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2018-12-23T08:21:47.332874Z 0 [Note] InnoDB: File '/www/server/data/ibtmp1' size is now 12 MB.
+2018-12-23T08:21:47.337982Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2018-12-23T08:21:47.338006Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2018-12-23T08:21:47.338716Z 0 [Note] InnoDB: Waiting for purge to start
+2018-12-23T08:21:47.389459Z 0 [Note] InnoDB: 5.7.19 started; log sequence number 2540190
+2018-12-23T08:21:47.389719Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2018-12-23T08:21:47.391759Z 0 [Note] InnoDB: Loading buffer pool(s) from /www/server/data/ib_buffer_pool
+2018-12-23T08:21:47.432224Z 0 [Note] Recovering after a crash using mysql-bin
+2018-12-23T08:21:47.432289Z 0 [Note] Starting crash recovery...
+2018-12-23T08:21:47.432343Z 0 [Note] Crash recovery finished.
+2018-12-23T08:21:47.601274Z 0 [Note] InnoDB: Buffer pool(s) load completed at 181223 16:21:47
+2018-12-23T08:21:47.702679Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2018-12-23T08:21:47.702698Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-12-23T08:21:47.702726Z 0 [Note] IPv6 is available.
+2018-12-23T08:21:47.702734Z 0 [Note]   - '::' resolves to '::';
+2018-12-23T08:21:47.702745Z 0 [Note] Server socket created on IP: '::'.
+2018-12-23T08:21:48.232084Z 0 [Note] Event Scheduler: Loaded 0 events
+2018-12-23T08:21:48.232268Z 0 [Note] /www/server/mysql/bin/mysqld: ready for connections.
+Version: '5.7.19-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+2018-12-23T08:21:48.232292Z 0 [Note] Executing 'SELECT * FROM INFORMATION_SCHEMA.TABLES;' to get a list of tables using the deprecated partition engine. You may use the startup option '--disable-partition-engine-check' to skip this check. 
+2018-12-23T08:21:48.232299Z 0 [Note] Beginning of list of non-natively partitioned tables
+2018-12-23T08:21:48.465464Z 0 [Note] End of list of non-natively partitioned tables
+2018-12-23T08:31:19.226551Z 0 [Warning] option 'max_allowed_packet': unsigned value 107374182400 adjusted to 1073741824
+2018-12-23T08:31:19.226824Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2018-12-23T08:31:19.226835Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2018-12-23T08:31:19.231278Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2018-12-23T08:31:19.231365Z 0 [Note] /www/server/mysql/bin/mysqld (mysqld 5.7.19-log) starting as process 2506 ...
+2018-12-23T08:31:19.375093Z 0 [Note] InnoDB: PUNCH HOLE support available
+2018-12-23T08:31:19.377482Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-12-23T08:31:19.377852Z 0 [Note] InnoDB: Uses event mutexes
+2018-12-23T08:31:19.378972Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-12-23T08:31:19.380022Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-12-23T08:31:19.383184Z 0 [Note] InnoDB: Using Linux native AIO
+2018-12-23T08:31:19.384982Z 0 [Note] InnoDB: Number of pools: 1
+2018-12-23T08:31:19.385436Z 0 [Note] InnoDB: Using CPU crc32 instructions
+2018-12-23T08:31:19.387067Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2018-12-23T08:31:19.395515Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2018-12-23T08:31:19.397774Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2018-12-23T08:31:19.461526Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-12-23T08:31:19.466001Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2540218
+2018-12-23T08:31:19.466218Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2540227
+2018-12-23T08:31:19.466393Z 0 [Note] InnoDB: Database was not shutdown normally!
+2018-12-23T08:31:19.466551Z 0 [Note] InnoDB: Starting crash recovery.
+2018-12-23T08:31:19.790318Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2018-12-23T08:31:19.790857Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2018-12-23T08:31:19.795465Z 0 [Note] InnoDB: Setting file '/www/server/data/ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2018-12-23T08:31:20.371937Z 0 [Note] InnoDB: File '/www/server/data/ibtmp1' size is now 12 MB.
+2018-12-23T08:31:20.377741Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2018-12-23T08:31:20.378117Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2018-12-23T08:31:20.378625Z 0 [Note] InnoDB: Waiting for purge to start
+2018-12-23T08:31:20.436056Z 0 [Note] InnoDB: 5.7.19 started; log sequence number 2540227
+2018-12-23T08:31:20.464594Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2018-12-23T08:31:20.551483Z 0 [Note] InnoDB: Loading buffer pool(s) from /www/server/data/ib_buffer_pool
+2018-12-23T08:31:20.590511Z 0 [Note] Recovering after a crash using mysql-bin
+2018-12-23T08:31:20.590825Z 0 [Note] Starting crash recovery...
+2018-12-23T08:31:20.591143Z 0 [Note] Crash recovery finished.
+2018-12-23T08:31:20.714730Z 0 [Note] InnoDB: Buffer pool(s) load completed at 181223 16:31:20
+2018-12-23T08:31:21.011813Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2018-12-23T08:31:21.012245Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-12-23T08:31:21.012632Z 0 [Note] IPv6 is available.
+2018-12-23T08:31:21.012987Z 0 [Note]   - '::' resolves to '::';
+2018-12-23T08:31:21.013776Z 0 [Note] Server socket created on IP: '::'.
+2018-12-23T08:31:21.788163Z 0 [Note] Event Scheduler: Loaded 0 events
+2018-12-23T08:31:21.788498Z 0 [Note] /www/server/mysql/bin/mysqld: ready for connections.
+Version: '5.7.19-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+2018-12-23T08:31:21.788779Z 0 [Note] Executing 'SELECT * FROM INFORMATION_SCHEMA.TABLES;' to get a list of tables using the deprecated partition engine. You may use the startup option '--disable-partition-engine-check' to skip this check. 
+2018-12-23T08:31:21.788784Z 0 [Note] Beginning of list of non-natively partitioned tables
+2018-12-23T08:31:22.256544Z 0 [Note] End of list of non-natively partitioned tables
